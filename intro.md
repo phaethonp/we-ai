@@ -1,5 +1,5 @@
 # we-ai 
-A framework for building public services and  Enterprise solutions over private data
+A framework for building public services and  Enterprise solutions over private data. We build on open-source code
 
            +-----------------------------------+
            | OpenAI                            |
