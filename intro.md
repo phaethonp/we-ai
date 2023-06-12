@@ -5,14 +5,14 @@ Building public services and  Enterprise solutions on open-source code
 
 
 # 1. Property development: Enterprise solutiom
+Our team is developing a solution to link a property development to AI-Platform. Our framework enables the development and deployment of products and services built on projects knowledge base<br><br>
 https://primeshare.app/section_4 <br>
 
-### --> Solutions and services:
-**Our team is developing a solution to link a property development to AI-Platform. Our framework enables the composition of three core products:<br><br>
-**1. Communications Hub:** Streamline communications, messages, and emails. Bring contractors, suppliers, design, and legal, all in the same place<br>
-Access real-time AI-generated insights and recommendations.<br><br>
-**2. Discover and load data. Transforn raw data into a knowledge base**<br>
-Gather, organize, and structure data to create a comprehensive knowledge base.<br><br>
+
+## --> Connect Your project's data: Raw, Structured, or unstructured
+
+**1. Discover and load data. Create a knowledge base**<br>
+Convert everything into a data source. Gather, organize, and structure data and create a comprehensive knowledge base.<br><br>
 **3. Deploy domain specific AI Models for your Project**<br>
 Integrate AI models built on your knowledge base to process, analyze, and make predictions based on the available data.<br>
 
