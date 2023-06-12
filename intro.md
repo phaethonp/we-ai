@@ -3,10 +3,10 @@ AI framework for building public services and  Enterprise solutions that respect
 
 ## Use cases
 
-### Property development: Enterprise solutiom
+## Property development: Enterprise solutiom
 https://primeshare.app/section_4 <br>
 
-### Solutions:
+### --> Build Solutions and services:
 **Connect Your Project to AI;** <br>
 Our team is developing a solution to link every property development to AI-Platform. What you get:<br><br>
 **1. a Communications Hub:** Streamline communications, messages, and emails. Bring contractors, suppliers, design, and legal, all in the same olace<br>
@@ -16,16 +16,16 @@ Gather, organize, and structure data to create a comprehensive knowledge base.<b
 **3. Deploy domain specific AI Models for your Project**<br>
 Integrate AI models built on your knowledge base to process, analyze, and make predictions based on the available data.<br>
 
-**What we bring on the table:**<br>
+### -->**What we bring on the table:**<br>
 **AI expertise** combined with our **Architecture and Construction industry knowledge** can pave the way for groundbreaking advancements in property development.
 
-**Proposed Collaboration:**<br>
+### -->**Proposed Collaboration:**<br>
 We propose a collaboration where our team acts as an outsourced AI development arm for your company. In this capacity, we can:<br>
 1. Customize the AI Framework: Work closely with you to adapt our AI framework to your specific needs and objectives.
 2. Provide Access to Innovative Technology: Grant you access to cutting-edge AI technology that can be integrated into your operations.
 
 <br><br>
-### Listen to the People: Public Service solution
+# Listen to the People: Public Service solution
 
 https://medium.com/p/242cbb0de7fc<br>
 Communication Platform as a Service (CPaaS)— Revolution in political engagement and Understanding
