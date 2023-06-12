@@ -1,5 +1,5 @@
 # we-ai 
-A framework for building services over private data
+A framework for building public services and  Enterprise solutions over private data
 
            +-----------------------------------+
            | OpenAI                            |
