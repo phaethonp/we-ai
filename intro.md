@@ -1,7 +1,7 @@
 # we-ai 
 A framework for building public services and  Enterprise solutions that respect private data. We build on open-source code
 
-# Use cases
+## Use cases
 
 ### Property development: Enterprise solutiom
 https://primeshare.app/section_4 <br>
