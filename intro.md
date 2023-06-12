@@ -1,7 +1,7 @@
 # WE-AI
 AI framework for building public services and  Enterprise solutions that respect private data. We build on open-source code
 
-<h2 style="color:light gray">Use cases</h2>
+<h2 style="color:#505050">Use cases</h2>
 
 
 # 1. Property development: Enterprise solutiom
