@@ -1,5 +1,5 @@
 # we-ai 
-A framework for building public services and  Enterprise solutions that respect private data. We build on open-source code
+AI framework for building public services and  Enterprise solutions that respect private data. We build on open-source code
 
 ## Use cases
 
@@ -7,10 +7,10 @@ A framework for building public services and  Enterprise solutions that respect 
 https://primeshare.app/section_4 <br>
 
 ### Solutions:
-**Connect Your Project to AI;** Your AI Managing Agent and Services platform<br>
+**Connect Your Project to AI;** <br>
 Our team is developing a solution to link every property development to AI-Platform. What you get:<br><br>
 **1. a Communications Hub:** Streamline communications, messages, and emails.<br>
-Accessreal-time AI-generated insights and recommendations.<br>
+Accessreal-time AI-generated insights and recommendations.<br><br>
 **2. Discover data. Build a knowledge base**<br><br>
 Gather, organize, and structure data to create a comprehensive knowledge base.<br>
 **3. Deploy domain specific AI Models for your Project**<br><br>
