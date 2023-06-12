@@ -6,6 +6,16 @@ A framework for building public services and  Enterprise solutions that respect 
 ### Property development: Enterprise solutiom
 https://primeshare.app/section_4 <br>
 
+### Solutions:
+**Connect Your Project to AI;** Your AI Managing Agent and Services platform
+Our team is developing a solution to link every property development to AI-Platform. What you get:
+**1. a Communications Hub:** Streamline communications, messages, and emails.
+Accessreal-time AI-generated insights and recommendations.
+**2. Discover data. Build a knowledge base**
+Gather, organize, and structure data to create a comprehensive knowledge base.
+**3. Deploy domain specific AI Models for your Project**<br>
+Integrate AI models built on your knowledge base to process, analyze, and make predictions based on the available data.
+
 **What we bring on the table:**<br>
 **AI expertise** combined with our **Architecture and Construction industry knowledge** can pave the way for groundbreaking advancements in property development.
 
@@ -14,14 +24,7 @@ We propose a collaboration where our team acts as an outsourced AI development a
 1. Customize the AI Framework: Work closely with you to adapt our AI framework to your specific needs and objectives.
 2. Provide Access to Innovative Technology: Grant you access to cutting-edge AI technology that can be integrated into your operations.
 
-
-
-**WE-AI framework design**
-1. We build versatile APIs that act as a software glue, enabling the creation of varied services.
-2. We harness open-source code, tapping into an extensive pool of resources.
-3. Our adaptive framework utilizes a technology-agnostic design, capable of integrating various models and tech, evolving in sync with industry advancements.
-
-<br><br><br><br>
+<br><br>
 ### Listen to the People: Public Service solution
 
 https://medium.com/p/242cbb0de7fc<br>
@@ -30,7 +33,12 @@ Communication Platform as a Service (CPaaS)— Revolution in political engagemen
 *Our platform redefines political engagement, creating a digital space where citizens interact asynchronously with their representatives. Using advanced AI, we transform these citizen voices into actionable insights, allowing political entities to accurately meet constituents’ needs.” — **People-Centric Technologies Powered by AI**<br><br>
 The critical distinction is that this service not only collects and manages constituent data, but also uses advanced AI technology to analyze this data and transform it into actionable insights. These insights can help inform campaign strategies, policy decisions, and targeted communications to better meet constituents’ needs and preferences.<br><br>
 
-#we-ai framework
+# we-ai framework
+**WE-AI framework design**
+1. We build versatile APIs that act as a software glue, enabling the creation of varied services.
+2. We harness open-source code, tapping into an extensive pool of resources.
+3. Our adaptive framework utilizes a technology-agnostic design, capable of integrating various models and tech, evolving in sync with industry advancements.
+
 
 
            +-----------------------------------+
