@@ -1,5 +1,5 @@
-# WE-AI
-AI framework for building public services and  Enterprise solutions that respect private data. We build on open-source code
+# WE-AI Data framework
+Building public services and  Enterprise solutions on open-source code
 
 <h2 style="color:#D3D3D3">Use cases</h2>
 
