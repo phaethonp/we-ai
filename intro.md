@@ -3,7 +3,7 @@ AI framework for building public services and  Enterprise solutions that respect
 
 ## Use cases
 
-## Property development: Enterprise solutiom
+# 1. Property development: Enterprise solutiom
 https://primeshare.app/section_4 <br>
 
 ### --> Build Solutions and services:
@@ -35,7 +35,7 @@ We are currently seeking strategic partnerships to boost our growth and discover
 We foresee that such cooperation will promote joint growth and enable us to adapt our solution to industry-specific requirements.<br><br>
 
 <br><br>
-# Listen to the People: Public Service solution
+# 2. Listen to the People: Public Service solution
 
 https://medium.com/p/242cbb0de7fc<br>
 Communication Platform as a Service (CPaaS)— Revolution in political engagement and Understanding
