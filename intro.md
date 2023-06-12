@@ -18,7 +18,7 @@ Convert everything into a data source. Gather, organize, and structure data and 
 Forecasting, predictive modelling, advanced analytics. Services you can not find anywhere else.
 
 
-## --> Deploy domain specific AI Models for your Project**<br>
+## --> Deploy domain specific privately owned AI Models for your Project<br>
 Integrate AI models built on your knowledge base to process, analyze, and make predictions based on the available data.<br>
 
 # What we bring to the table:<br>
