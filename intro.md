@@ -6,7 +6,7 @@ A framework for building public services and  Enterprise solutions that respect 
 ### Property development: Enterprise solutiom
 https://primeshare.app/section_4 <br>
 
-**What we bring on the table:**
+**What we bring on the table:**<br>
 **AI expertise** combined with our **Architecture and Construction industry knowledge** can pave the way for groundbreaking advancements in property development.
 
 **Proposed Collaboration:**<br>
