@@ -11,10 +11,10 @@ https://primeshare.app/section_4 <br>
 Our team is developing a solution to link every property development to AI-Platform. What you get:<br><br>
 **1. a Communications Hub:** Streamline communications, messages, and emails.<br>
 Accessreal-time AI-generated insights and recommendations.<br><br>
-**2. Discover data. Build a knowledge base**<br><br>
-Gather, organize, and structure data to create a comprehensive knowledge base.<br>
-**3. Deploy domain specific AI Models for your Project**<br><br>
-Integrate AI models built on your knowledge base to process, analyze, and make predictions based on the available data.
+**2. Discover data. Build a knowledge base**<br>
+Gather, organize, and structure data to create a comprehensive knowledge base.<br><br>
+**3. Deploy domain specific AI Models for your Project**<br>
+Integrate AI models built on your knowledge base to process, analyze, and make predictions based on the available data.<br>
 
 **What we bring on the table:**<br>
 **AI expertise** combined with our **Architecture and Construction industry knowledge** can pave the way for groundbreaking advancements in property development.
