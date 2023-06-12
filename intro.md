@@ -25,10 +25,10 @@ We propose a collaboration where our team acts as an outsourced AI development a
 2. Provide Access to Innovative Technology: Grant you access to cutting-edge AI technology that can be integrated into your operations.
 
 ### -->** where we are in our development phase:<br>
-1.Our framework is now operational on AWS services.
-2.We are currently in the phase of testing our APIs.
-3.A successful proof of concept has been completed.
-4.We are now prepared to transition into production development.
+1.Our framework is now operational on various cloud providers such as AWS services.<br>
+2.We are currently in the phase of testing our APIs.<br>
+3.A successful proof of concept has been completed.<br>
+4.We are now prepared to transition into production development.<br>
 
 ### We are seeking a strategic partnership
 We are currently seeking strategic partnerships to boost our growth and discover more uses for our technology.
