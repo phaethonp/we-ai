@@ -21,15 +21,15 @@ Forecasting, predictive modelling, advanced analytics. Services you can not find
 ## --> Deploy domain specific AI Models for your Project**<br>
 Integrate AI models built on your knowledge base to process, analyze, and make predictions based on the available data.<br>
 
-### -->**What we bring on the table:**<br>
+### What we bring on the table:<br>
 **AI expertise** combined with our **Architecture and Construction industry Professional Experience**
 
-### -->**Proposed Collaboration:**<br>
+### Proposed Collaboration:<br>
 We propose a collaboration where our team acts as an outsourced AI development arm for your company. In this capacity, we can:<br>
 1. Customize the AI Framework: Work closely with you to adapt our AI framework to your specific needs and objectives.
 2. Provide Access to Innovative Technology: Grant you access to cutting-edge AI technology that can be integrated into your operations.
 
-### -->**where we are in our development phase:<br>
+### Where we are in our development phase:<br>
 1.Our framework is now operational on various cloud providers such as AWS services.<br>
 2.We are currently in the phase of testing our APIs.<br>
 3.A successful proof of concept has been completed.<br>
