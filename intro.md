@@ -53,8 +53,22 @@ This high-level architecture allows any LLM to access data from various sources 
 # Use cases
 
 ### Property development: Enterprise solutiom
-**https://primeshare.app/section_4
+https://primeshare.app/section_4
 
+**Proposed Collaboration:**
+We propose a collaboration where our team acts as an outsourced AI development arm for your company. In this capacity, we can:
+1. Build Solutions to needs that un-addressed with todays available software.
+2. Customize the AI Framework: Work closely with you to adapt our AI framework to your specific needs and objectives.
+3. Provide Access to Innovative Technology: Grant you access to cutting-edge AI technology that can be integrated into your operations.
+
+
+**WE-AI framework design
+1. We build versatile APIs that act as a software glue, enabling the creation of varied services.
+2. We harness open-source code, tapping into an extensive pool of resources.
+3. Our adaptive framework utilizes a technology-agnostic design, capable of integrating various models and tech, evolving in sync with industry advancements.
+
+**What we bring on the table:**
+Our **AI expertise** combined with our **Architecture and Construction industry knowledge** can pave the way for groundbreaking advancements in property development.
 ### Listen to the People: Public Service solution
 
 https://medium.com/p/242cbb0de7fc<br>
