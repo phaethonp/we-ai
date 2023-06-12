@@ -9,15 +9,20 @@ Our team is developing a solution to link a property development to AI-Platform.
 https://primeshare.app/section_4 <br>
 
 
-## --> Connect Your project's data: Raw, Structured, or unstructured
+## --> Connect Your project's data sources: Raw, Structured, or unstructured
 
 **1. Discover and load data. Create a knowledge base**<br>
 Convert everything into a data source. Gather, organize, and structure data and create a comprehensive knowledge base.<br><br>
-**3. Deploy domain specific AI Models for your Project**<br>
+
+## --> Create project specific Services and applications<br>
+Forecasting, predictive modelling, advanced analytics. Services you can not find anywhere else.
+
+
+## --> Deploy domain specific AI Models for your Project**<br>
 Integrate AI models built on your knowledge base to process, analyze, and make predictions based on the available data.<br>
 
 ### -->**What we bring on the table:**<br>
-**AI expertise** combined with our **Architecture and Construction industry knowledge** can pave the way for groundbreaking advancements in property development.
+**AI expertise** combined with our **Architecture and Construction industry Professional Experience**
 
 ### -->**Proposed Collaboration:**<br>
 We propose a collaboration where our team acts as an outsourced AI development arm for your company. In this capacity, we can:<br>
