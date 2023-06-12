@@ -7,8 +7,8 @@ A framework for building public services and  Enterprise solutions that respect 
 https://primeshare.app/section_4 <br>
 
 ### Solutions:
-**Connect Your Project to AI;** Your AI Managing Agent and Services platform<br><br>
-Our team is developing a solution to link every property development to AI-Platform. What you get:<br>
+**Connect Your Project to AI;** Your AI Managing Agent and Services platform<br>
+Our team is developing a solution to link every property development to AI-Platform. What you get:<br><br>
 **1. a Communications Hub:** Streamline communications, messages, and emails.<br>
 Accessreal-time AI-generated insights and recommendations.<br>
 **2. Discover data. Build a knowledge base**<br><br>
