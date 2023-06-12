@@ -62,13 +62,14 @@ We propose a collaboration where our team acts as an outsourced AI development a
 3. Provide Access to Innovative Technology: Grant you access to cutting-edge AI technology that can be integrated into your operations.
 
 
-**WE-AI framework design
+
+**WE-AI framework design**
 1. We build versatile APIs that act as a software glue, enabling the creation of varied services.
 2. We harness open-source code, tapping into an extensive pool of resources.
 3. Our adaptive framework utilizes a technology-agnostic design, capable of integrating various models and tech, evolving in sync with industry advancements.
 
 **What we bring on the table:**
-Our **AI expertise** combined with our **Architecture and Construction industry knowledge** can pave the way for groundbreaking advancements in property development.
+Our **AI expertise** combined with our **Architecture and Construction industry knowledge** can pave the way for groundbreaking advancements in property development.<br><br><br><br>
 ### Listen to the People: Public Service solution
 
 https://medium.com/p/242cbb0de7fc<br>
