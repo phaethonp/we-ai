@@ -59,7 +59,7 @@ This high-level architecture allows any LLM to access data from various sources 
 https://medium.com/p/242cbb0de7fc
 Communication Platform as a Service (CPaaS)— Revolution in political engagement and Understanding
 
-*Our platform redefines political engagement, creating a digital space where citizens interact asynchronously with their representatives. Using advanced AI, we transform these citizen voices into actionable insights, allowing political entities to accurately meet constituents’ needs.” — People-Centric Technologies Powered by AI
+*Our platform redefines political engagement, creating a digital space where citizens interact asynchronously with their representatives. Using advanced AI, we transform these citizen voices into actionable insights, allowing political entities to accurately meet constituents’ needs.” — People-Centric Technologies Powered by AI<br>
 The critical distinction is that this service not only collects and manages constituent data, but also uses advanced AI technology to analyze this data and transform it into actionable insights. These insights can help inform campaign strategies, policy decisions, and targeted communications to better meet constituents’ needs and preferences.
 
 
