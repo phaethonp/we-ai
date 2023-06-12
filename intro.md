@@ -8,8 +8,7 @@ AI framework for building public services and  Enterprise solutions that respect
 https://primeshare.app/section_4 <br>
 
 ### --> Solutions and services:
-**Connect Your Project to AI;** <br>
-Our team is developing a solution to link a property development to AI-Platform. Our framework enables the a composition of three core products:<br><br>
+**Our team is developing a solution to link a property development to AI-Platform. Our framework enables the a composition of three core products:<br><br>
 **1. Communications Hub:** Streamline communications, messages, and emails. Bring contractors, suppliers, design, and legal, all in the same place<br>
 Access real-time AI-generated insights and recommendations.<br><br>
 **2. Discover and load data. Transforn raw data into a knowledge base**<br>
