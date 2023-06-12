@@ -1,7 +1,7 @@
 # WE-AI Data framework
 Building public services and  Enterprise solutions on open-source code
 
-<h2 style="color:#D3D3D3">Use cases</h2>
+<h3 style="color:#D3D3D3">Use cases</h2>
 
 
 # 1. Property development: Enterprise solutiom
