@@ -24,7 +24,7 @@ We propose a collaboration where our team acts as an outsourced AI development a
 1. Customize the AI Framework: Work closely with you to adapt our AI framework to your specific needs and objectives.
 2. Provide Access to Innovative Technology: Grant you access to cutting-edge AI technology that can be integrated into your operations.
 
-### -->** where we are in our development phase:<br>
+### -->**where we are in our development phase:<br>
 1.Our framework is now operational on various cloud providers such as AWS services.<br>
 2.We are currently in the phase of testing our APIs.<br>
 3.A successful proof of concept has been completed.<br>
