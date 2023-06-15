@@ -46,13 +46,6 @@ We are currently seeking strategic partnerships to boost our growth and discover
 We foresee that such cooperation will promote joint growth and enable us to adapt our solution to industry-specific requirements.<br><br>
 
 <br><br>
-# 2. Listen to the People: Public Service solution
-
-https://medium.com/p/242cbb0de7fc<br>
-Communication Platform as a Service (CPaaS)— Revolution in political engagement and Understanding
-
-*Our platform redefines political engagement, creating a digital space where citizens interact asynchronously with their representatives. Using advanced AI, we transform these citizen voices into actionable insights, allowing political entities to accurately meet constituents’ needs.” — **People-Centric Technologies Powered by AI**<br><br>
-The critical distinction is that this service not only collects and manages constituent data, but also uses advanced AI technology to analyze this data and transform it into actionable insights. These insights can help inform campaign strategies, policy decisions, and targeted communications to better meet constituents’ needs and preferences.<br><br>
 
 # we-ai framework
 **WE-AI framework design**
