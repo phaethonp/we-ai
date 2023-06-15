@@ -1,6 +1,6 @@
 # Data framework for ai Solutions in AEC industry
 ###  We put control in your hands with open source models
-transform the scattered processes involved in construction and development into more streamlined, assembly-line-like procedures.
+Transform the scattered processes involved in construction and development into more streamlined, assembly-line-like procedures.
 
 
 
@@ -8,10 +8,11 @@ transform the scattered processes involved in construction and development into 
 
 
 # 1.  Create a Project Knowledge Base from Raw, Structured, or unstructured data
-Convert everything into a data source. Gather, organize, and structure data and create a comprehensive knowledge base
+Tap into untapped data pools. Convert everything into a data source. Gather, organize, and structure data and create a comprehensive knowledge base<br>
 <img width="624" alt="Screenshot 2023-06-15 at 22 28 19" src="https://github.com/phaethonp/we-ai/assets/33053426/058b2632-22b6-4c07-81bd-841ee92fc43a">
 
 # 2. Connect Your data sources to AI engine
+Bring all your data into a single source. <br>
 
 <img width="1208" alt="Screenshot 2023-06-15 at 22 52 56" src="https://github.com/phaethonp/we-ai/assets/33053426/f3feb841-b4f9-41b2-8867-bc2bcc09e714">
 
