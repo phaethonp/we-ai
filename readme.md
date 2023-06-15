@@ -8,11 +8,14 @@ Enterprise solutions and Public Services over Your data
 
 
 # 1. Connect Your data sources to AI engine
-
+Convert everything into a data source. Gather, organize, and structure data and create a comprehensive knowledge base
 <img width="624" alt="Screenshot 2023-06-15 at 22 28 19" src="https://github.com/phaethonp/we-ai/assets/33053426/058b2632-22b6-4c07-81bd-841ee92fc43a">
 
 
-## --> Connect Your project's data sources: Raw, Structured, or unstructured
+## --> Create a Project Knowledge Base from Raw, Structured, or unstructured data
+
+<img width="1208" alt="Screenshot 2023-06-15 at 22 52 56" src="https://github.com/phaethonp/we-ai/assets/33053426/f3feb841-b4f9-41b2-8867-bc2bcc09e714">
+
 
 **1. Discover and load data. Create a knowledge base**<br>
 Convert everything into a data source. Gather, organize, and structure data and create a comprehensive knowledge base.<br><br>
