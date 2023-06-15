@@ -1,5 +1,6 @@
-# WE-AI Data framework
-Build public services and  Enterprise solutions over your data
+# WE-AI 
+## Data framework for ai applications
+Enterprise solutions and Public Services over Your data
 
 <h3 style="color:#D3D3D3">Use cases</h2>
 
