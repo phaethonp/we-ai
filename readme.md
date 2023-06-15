@@ -1,18 +1,17 @@
 # Data framework for ai Solutions in AEC industry
 ###  We put control in your hands with open source models
-Enterprise solutions and Public Services over Your data
+transform the scattered processes involved in construction and development into more streamlined, assembly-line-like procedures.
 
 
 
 
 
 
-# 1. Connect Your data sources to AI engine
+# 1.  Create a Project Knowledge Base from Raw, Structured, or unstructured data
 Convert everything into a data source. Gather, organize, and structure data and create a comprehensive knowledge base
 <img width="624" alt="Screenshot 2023-06-15 at 22 28 19" src="https://github.com/phaethonp/we-ai/assets/33053426/058b2632-22b6-4c07-81bd-841ee92fc43a">
 
-
-## --> Create a Project Knowledge Base from Raw, Structured, or unstructured data
+# 2. Connect Your data sources to AI engine
 
 <img width="1208" alt="Screenshot 2023-06-15 at 22 52 56" src="https://github.com/phaethonp/we-ai/assets/33053426/f3feb841-b4f9-41b2-8867-bc2bcc09e714">
 
