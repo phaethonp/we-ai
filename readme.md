@@ -1,13 +1,15 @@
-# WE-AI 
-## Data framework for ai applications
+# Data framework for ai Solutions in AEC industry
+###  We put control in your hands with open source models
 Enterprise solutions and Public Services over Your data
 
-<h3 style="color:#D3D3D3">Use cases</h2>
 
 
-# 1. Property development: Enterprise solution
-Our team is developing a solution to link a property development to AI-Platform. Our framework enables the development and deployment of products and services built on projects knowledge base<br><br>
-https://primeshare.app/section_4 <br>
+
+
+
+# 1. Connect Your data sources to AI engine
+
+<img width="624" alt="Screenshot 2023-06-15 at 22 28 19" src="https://github.com/phaethonp/we-ai/assets/33053426/058b2632-22b6-4c07-81bd-841ee92fc43a">
 
 
 ## --> Connect Your project's data sources: Raw, Structured, or unstructured
