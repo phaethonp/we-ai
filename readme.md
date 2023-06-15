@@ -14,17 +14,17 @@ Tap into untapped data pools. Convert everything into a data source. Gather, org
 # 2. Connect Your data sources to AI engine
 Bring all your data into a single source. <br>
 
-<img width="1208" alt="Screenshot 2023-06-15 at 22 52 56" src="https://github.com/phaethonp/we-ai/assets/33053426/f3feb841-b4f9-41b2-8867-bc2bcc09e714">
+<img width="1208" alt="Screenshot 2023-06-15 at 22 52 56" src="https://github.com/phaethonp/we-ai/assets/33053426/f3feb841-b4f9-41b2-8867-bc2bcc09e714"><br>
+# 3. Ask questions in natural language on any type of document.
 
+<img width="1024" alt="Screenshot 2023-06-15 at 23 43 13" src="https://github.com/phaethonp/we-ai/assets/33053426/12df28b9-036c-43ad-8e31-074bc4669bac">
+<br> Image from our chatgpt plugin retrieving data from the vector database deployed http://3.8.31.17:8000/docs#/default/get_nearest_neighbors
 
-**1. Discover and load data. Create a knowledge base**<br>
-Convert everything into a data source. Gather, organize, and structure data and create a comprehensive knowledge base.<br><br>
-
-## --> Create project specific Services and applications<br>
+# 4. Create project specific Services and applications<br>
 Forecasting, predictive modelling, advanced analytics. Services you can not find anywhere else.
 
 
-## --> Deploy domain specific privately owned AI Models for your Project<br>
+# 5. Deploy domain specific privately owned AI Models for your Project<br>
 Integrate AI models built on your knowledge base to process, analyze, and make predictions based on the available data.<br>
 
 # What we bring to the table:<br>
