@@ -7,7 +7,7 @@
 
 
 
-# 1.  Create a Project Knowledge Base from Raw, Structured, or unstructured data
+# 1.  Create a Project Data Warehouse from Raw, Structured, or unstructured data
 Tap into untapped data pools. Convert everything into a data source. Gather, organize, and structure data and create a comprehensive knowledge base<br><br>
 <img width="624" alt="Screenshot 2023-06-15 at 22 28 19" src="https://github.com/phaethonp/we-ai/assets/33053426/058b2632-22b6-4c07-81bd-841ee92fc43a">
 
@@ -15,7 +15,7 @@ Tap into untapped data pools. Convert everything into a data source. Gather, org
 Bring all your data into a single source. <br>
 
 <img width="1208" alt="Screenshot 2023-06-15 at 22 52 56" src="https://github.com/phaethonp/we-ai/assets/33053426/f3feb841-b4f9-41b2-8867-bc2bcc09e714"><br>
-# 3. Ask questions in natural language on any type of document.
+# 3. Query your structured data warehouse with natural language
 
 <img width="1024" alt="Screenshot 2023-06-15 at 23 43 13" src="https://github.com/phaethonp/we-ai/assets/33053426/12df28b9-036c-43ad-8e31-074bc4669bac">
 <br> Image from our chatgpt plugin retrieving data from the vector database deployed http://3.8.31.17:8000/docs#/default/get_nearest_neighbors
