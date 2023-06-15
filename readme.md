@@ -5,7 +5,7 @@ Enterprise solutions and Public Services over Your data
 <h3 style="color:#D3D3D3">Use cases</h2>
 
 
-# 1. Property development: Enterprise solutiom
+# 1. Property development: Enterprise solution
 Our team is developing a solution to link a property development to AI-Platform. Our framework enables the development and deployment of products and services built on projects knowledge base<br><br>
 https://primeshare.app/section_4 <br>
 
