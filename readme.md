@@ -1,6 +1,6 @@
 # Data framework for ai Solutions in AEC industry
-###  We put control in your hands with open source models
-**Transform the scattered processes** involved in construction and development into more **streamlined, assembly-line-like procedures.**<br>
+
+### Transform the scattered processes** involved in construction and development into more **streamlined, assembly-line-like procedures.**<br>
 
 
 
