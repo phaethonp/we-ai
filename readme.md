@@ -8,7 +8,7 @@ Transform the scattered processes involved in construction and development into 
 
 
 # 1.  Create a Project Knowledge Base from Raw, Structured, or unstructured data
-Tap into untapped data pools. Convert everything into a data source. Gather, organize, and structure data and create a comprehensive knowledge base<br>
+Tap into untapped data pools. Convert everything into a data source. Gather, organize, and structure data and create a comprehensive knowledge base<br><br>
 <img width="624" alt="Screenshot 2023-06-15 at 22 28 19" src="https://github.com/phaethonp/we-ai/assets/33053426/058b2632-22b6-4c07-81bd-841ee92fc43a">
 
 # 2. Connect Your data sources to AI engine
