@@ -1,8 +1,9 @@
 # Data framework for ai Solutions in AEC industry
 
 ### Transform scattered processes into streamlined, assembly-line-like procedures forming a more factory-like paradigm.<br>
+Friction. uneven information distribution. Safety. Low productivity.<br><br>
 
-**Why we build this framework**<br>
+Why we build this framework<br><br>
 The **property development industry** is characterized by **inherent challenges**, such as **friction** between parties due to **uneven information distribution, safety concerns**, issues related to **quality**, and **low productivity.**<br><br> 
 By linking the myriad of stakeholders involved in property development processes via streamlined information sharing, we can mitigate these fragmented procedures. <br><br>
 The outcome is a transformation of disjointed steps into a seamless, assembly-line-like operation, effectively morphing the process into a more factory-like paradigm.
