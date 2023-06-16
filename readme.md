@@ -28,34 +28,38 @@ Harness the power of our AI framework to establish a unified source of informati
 <br><br><br>
 
 # 4. Build powerful applications over your data <br>
-Build Services you can not find anywhere else: Forecasting, predictive modelling, advanced analytics. <br><br>
+Build Services you can not find anywhere else: Forecasting, predictive modelling, advanced analytics. 
+<br><br>
 
 
 # 5. Deploy Domain-Specific, Privately-Owned AI Models Tailored for Your Organization<br>
-Integrate AI models built on your data warehouse to process, analyze, and make predictions based on the available data.<br>
+Integrate AI models built on your data warehouse to process, analyze, and make predictions based on the available data.
+<br><br><br>
 
 # 6. The AI Project Hub. What it is and why it matters
-Upon complete deployment, this AI hub empowers you to incorporate various services from multiple stakeholders, capture their operational data, and subsequently offer services that elucidate ways to enhance efficiency, consolidate resources among various parties, or improve the asset's performance.<br><br>
+Upon complete deployment, this AI hub empowers you to incorporate various services from multiple stakeholders, capture their operational data, and subsequently offer services that elucidate ways to enhance efficiency, consolidate resources among various parties, or improve the asset's performance.
+<br><br><br>
 
 # What we bring to the table:<br>
 **AI expertise** combined with our **Architecture and Construction industry Professional Experience**
+<br><br><br>
 
 # Proposed Collaboration:<br>
 We propose a collaboration where our team acts as an outsourced AI development arm for your company. In this capacity, we can:<br>
 1. Customize the AI Framework: Work closely with you to adapt our AI framework to your specific needs and objectives.
 2. Provide Access to Innovative Technology: Grant you access to cutting-edge AI technology that can be integrated into your operations.
-
+<br><br><br>
 ### Where we are in our development phase:<br>
 1.Our framework is now operational on various cloud providers such as AWS services.<br>
 2.We are currently in the phase of testing our APIs.<br>
 3.A successful proof of concept has been completed.<br>
-4.We are now prepared to transition into production development.<br>
-
+4.We are now prepared to transition into production development.
+<br><br><br>
 ### We are seeking a strategic partnership
 We are currently seeking strategic partnerships to boost our growth and discover more uses for our technology.
 We foresee that such cooperation will promote joint growth and enable us to adapt our solution to industry-specific requirements.<br><br>
 
-<br><br>
+<br><br><br>
 
 # we-ai framework
 **WE-AI framework design**
@@ -113,5 +117,47 @@ The **we-ai API middleware** defines an /upsert endpoint for users to load data.
 5. The **Meta Index- Question Engines** has been added under **Document Store**, **Data Getters** and **Data Loaders** These represent the vector indices built over any data stored in their respective document stores.
 
 This high-level architecture allows any LLM to access data from various sources seamlessly, provided these sources implement the API. The we-ai API essentially standardizes how these systems interact, making it easier for developers to integrate and manipulate a wide range of data.
+
+### We actively contribute to the development of Openai Chatgpt-Retrieval-plugin
+
+https://github.com/openai/chatgpt-retrieval-plugin/pull/311
+
+# About me
+As an architect both by heart and profession, I hold profound knowledge of the Architecture, Engineering, and Construction (AEC) industry backed by years of professional experience. Coupled with my passion for coding and AI, I am firmly committed to enhancing the industry and improving the lives of those working within it.
+
+2023: This AI framework. Public Service app: Politika AI<br>
+
+2022-2020: Pioneer.app building applications and startups<br>
+
+
+2018-2020: Ethereum, WEB3 programming<br>
+
+
+2017-2018: Building a biotech startup. We submitted over 20 patent applications in USPTO<br>
+
+
+2015-2017: School of Electrical and Computer Engineering ECE NTUA. I attended classes for two years as part of an interdisciplinary PhD program.<br>
+
+
+2011 Bitcoin <br>
+
+
+2009-2011: Emergent Technologies and Design. Architectural Association of London, School of Architecture. <br>
+
+
+Building agents in 3d Studio max and Python<br>
+
+
+1999-2013: Establish and run a Design and Build company focused on near Zero energy housing<br>
+
+
+1995-1999: Running very large construction sites<br>
+
+
+1987-1992:School of Architecture Athens NTUA<br>
+
+
+
+
 
 
