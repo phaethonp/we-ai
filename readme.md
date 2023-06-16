@@ -1,19 +1,19 @@
-# Data framework for ai Solutions in AEC industry
+# AI Data Framework for the AEC Industry
 
 >Transform scattered processes into streamlined, assembly-line-like procedures forming a more factory-like paradigm.
 
 <br><br>
 ### Why we build this framework<br>
-Challenges we address:`Friction` `Lack of Data` `Uneven Information Distribution` `Safety` `Low Productivity`<br><br>
-The **property development industry** is characterized by **inherent challenges**, such as **friction** between parties due to **uneven information distribution, safety concerns**, issues related to **quality**, and **low productivity.**<br><br> 
-By linking the myriad of stakeholders involved in property development processes via streamlined information sharing, we can mitigate these fragmented procedures. <br><br>
+We address these challenges:`Friction` `Lack of Data` `Uneven Information Distribution` `Safety` `Low Productivity`<br><br>
+The **property development industry** is marked by **inherent challenges**, such as **friction** between parties due to **uneven information distribution, safety concerns**, issues related to **quality**, and **low productivity.**<br><br> 
+By connecting the myriad of stakeholders involved in property development processes via streamlined information sharing, we can mitigate these fragmented procedures. <br><br>
 The expected outcome is a transformation of disjointed steps into a seamless, assembly-line-like operation, effectively morphing the process into a more factory-like paradigm.<br><br>
 
 
 # Key components of the framework
 
 
-## 1. Connect Your data sources to AI engine
+## 1. Connect Your Data Sources to Our AI Engine
 Integrate Your Data Sources with Our AI Engine: **Unlock** the potential of **untouched data reservoirs**. Transform every piece of information into a valuable data source. Accumulate, order, and systematize data to construct an all-encompassing knowledge base.<br><br>
 <img width="624" alt="Screenshot 2023-06-15 at 22 28 19" src="https://github.com/phaethonp/we-ai/assets/33053426/058b2632-22b6-4c07-81bd-841ee92fc43a">
 <br><br>
@@ -68,7 +68,7 @@ We propose a collaboration where our team acts as an outsourced AI development a
 1. Customize the AI Framework: Work closely with you to adapt our AI framework to your specific needs and objectives.
 2. Provide Access to Innovative Technology: Grant you access to cutting-edge AI technology that can be integrated into your operations.
 <br><br><br>
-### Where we are in our development phase:<br>
+### Our current development phase:<br>
 1.Our framework is now operational on various cloud providers such as AWS services.<br>
 2.We are currently in the phase of testing our APIs.<br>
 3.A successful proof of concept has been completed.<br>
@@ -80,8 +80,8 @@ We foresee that such cooperation will promote joint growth and enable us to adap
 
 <br><br><br>
 
-# we-ai framework
-**WE-AI framework design**
+# The WE-AI Framework
+**WE-AI Framework Design**
 1. We build versatile APIs that act as a software glue, enabling the creation of varied services.
 2. We harness open-source code, tapping into an extensive pool of resources.
 3. Our adaptive framework utilizes a technology-agnostic design, capable of integrating various models and tech, evolving in sync with industry advancements.
@@ -121,17 +121,17 @@ We foresee that such cooperation will promote joint growth and enable us to adap
         
 In this diagram:
 1. **AI language technologies:** 
-Primarily focusing on Large Language Models, we illustrate the various options accessible via the we-ai API middleware. 
+We focus primarily on Large Language Models, showcasing the various options accessible via the we-ai API middleware. 
 Our offering extends to **enterprise solutions** that include privately operated **open source models**, empowering businesses with a high degree of customization and control over their AI language technologies, and **private data**.
 
 1. The "LLM Toolkit" represents any language model toolkit, which interacts with the "we-ai API middleware "
 
-2. The **we-ai API middleware** acts as a middleman, enabling interaction between the "LLM Toolkit" and various data sources (i.e., "Document Store," "Data Getters," and "Data Loaders").
+2. The **WE-API API Middleware** acts as a middleman, enabling interaction between the "LLM Toolkit" and various data sources (i.e., "Document Store," "Data Getters," and "Data Loaders").
 
 3. Loading Data from **we-ai** into the API Retrieval System
-The **we-ai API middleware** defines an /upsert endpoint for users to load data. This offers a natural integration point with Data Getters hub, which offers over 25 data loaders from various API’s and document formats, with more under development.
+The **WE-API API Middleware** defines an /upsert endpoint for users to load data. This offers a natural integration point with Data Getters hub, which offers over 25 data loaders from various API’s and document formats, with more under development.
 
-4. The data sources **Document Store, Data Getters, Data Loaders**, represent various document storage and retrieval systems that implement the **we-ai API middleware** , allowing them to exchange data with the model.
+4. The data sources **Document Store, Data Getters, Data Loaders**, represent various document storage and retrieval systems that implement the **WE-API API Middleware** , allowing them to exchange data with the model.
 
 5. The **Meta Index- Question Engines** has been added under **Document Store**, **Data Getters** and **Data Loaders** These represent the vector indices built over any data stored in their respective document stores.
 
@@ -158,7 +158,7 @@ As an architect both by heart and profession, I hold profound knowledge of the A
 2015-2017: School of Electrical and Computer Engineering ECE NTUA. I attended classes for two years as part of an interdisciplinary PhD program.<br>
 
 
-2011 Bitcoin <br>
+2011 Began exploring Bitcoin and the potential of blockchains to run autonomous agents <br>
 
 
 2009-2011: Emergent Technologies and Design. Architectural Association of London, School of Architecture. <br>
