@@ -28,14 +28,14 @@ Harness the power of our AI framework to establish a unified source of informati
 <br><br><br>
 
 # 4. Build powerful applications over your data <br>
-Build Services you can not find anywhere else: Forecasting, predictive modelling, advanced analytics. 
+Build Services you can not find anywhere else: Forecasting, predictive modelling, advanced analytics. <br><br>
 
 
-# Deploy Domain-Specific, Privately-Owned AI Models Tailored for Your Organization<br>
+# 5. Deploy Domain-Specific, Privately-Owned AI Models Tailored for Your Organization<br>
 Integrate AI models built on your data warehouse to process, analyze, and make predictions based on the available data.<br>
 
-# The AI Project Hub. What will look like and why it matters
-Upon complete deployment, this AI hub empowers you to incorporate various services from multiple stakeholders, capture their operational data, and subsequently offer services that elucidate ways to enhance efficiency, consolidate resources among various parties, or improve the asset's performance.
+# 6. The AI Project Hub. What it is and why it matters
+Upon complete deployment, this AI hub empowers you to incorporate various services from multiple stakeholders, capture their operational data, and subsequently offer services that elucidate ways to enhance efficiency, consolidate resources among various parties, or improve the asset's performance.<br><br>
 
 # What we bring to the table:<br>
 **AI expertise** combined with our **Architecture and Construction industry Professional Experience**
