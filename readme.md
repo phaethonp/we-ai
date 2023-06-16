@@ -25,7 +25,7 @@ Harness the power of our AI framework to establish a unified source of informati
 
 <img width="1024" alt="Screenshot 2023-06-15 at 23 43 13" src="https://github.com/phaethonp/we-ai/assets/33053426/12df28b9-036c-43ad-8e31-074bc4669bac">
 <br> Image from our chatgpt plugin retrieving data from the vector database deployed http://3.8.31.17:8000/docs#/default/get_nearest_neighbors
-<br><br>
+<br><br><br>
 
 # 4. Build powerful applications over your data <br>
 Build Services you can not find anywhere else: Forecasting, predictive modelling, advanced analytics. 
