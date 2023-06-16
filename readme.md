@@ -4,7 +4,7 @@
 
 <br><br>
 ### Why we build this framework<br>
-Challenges we address:`Friction` `Uneven information distribution` `Safety` `Low productivity`<br><br>
+Challenges we address:`Friction` `Lack of Data` `Uneven Information Distribution` `Safety` `Low Productivity`<br><br>
 The **property development industry** is characterized by **inherent challenges**, such as **friction** between parties due to **uneven information distribution, safety concerns**, issues related to **quality**, and **low productivity.**<br><br> 
 By linking the myriad of stakeholders involved in property development processes via streamlined information sharing, we can mitigate these fragmented procedures. <br><br>
 The expected outcome is a transformation of disjointed steps into a seamless, assembly-line-like operation, effectively morphing the process into a more factory-like paradigm.<br><br>
@@ -18,7 +18,7 @@ Tap into untapped data pools. Convert everything into a data source. Gather, org
 <img width="624" alt="Screenshot 2023-06-15 at 22 28 19" src="https://github.com/phaethonp/we-ai/assets/33053426/058b2632-22b6-4c07-81bd-841ee92fc43a">
 
 # 2. Connect Your data sources to AI engine
-Bring all your data into a single source. <br>
+Consolidate all your data in one location to establish a unified source of information. <br>
 
 <img width="1208" alt="Screenshot 2023-06-15 at 22 52 56" src="https://github.com/phaethonp/we-ai/assets/33053426/f3feb841-b4f9-41b2-8867-bc2bcc09e714"><br>
 # 3. Query unstructured data with natural language
