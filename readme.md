@@ -28,7 +28,16 @@ Harness the power of our AI framework to establish a unified source of informati
 <br><br><br>
 
 # 4. Build powerful applications over your data <br>
-Build Services you can not find anywhere else: Forecasting, predictive modelling, advanced analytics. 
+Build Services you can not get anywhere else:<br>
+**AI-Powered Collaboration Platform:** Enhances stakeholder communication, reducing friction and improving project transparency.
+<br>
+**Data Aggregation and Visualization:** Captures, aggregates, and presents project data comprehensively.<br>
+
+**Intelligent Information Distribution System:** Distributes relevant information to stakeholders at the right time.<br>
+
+**AI-Driven Safety Monitoring and Alert System:** Monitors site safety continuously, providing real-time alerts.<br>
+
+**Predictive Productivity Analytics:** Analyzes historical data to identify and eliminate productivity bottlenecks.
 <br><br>
 
 
