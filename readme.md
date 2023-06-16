@@ -20,7 +20,7 @@ Integrate Your Data Sources with Our AI Engine: **Unlock** the potential of **un
 # 2. Create AI Data Warehouse from Raw, Structured, or Unstructured data 
 Harness the power of our AI framework to establish a unified source of information. <br>
 
-<img width="1208" alt="Screenshot 2023-06-15 at 22 52 56" src="https://github.com/phaethonp/we-ai/assets/33053426/f3feb841-b4f9-41b2-8867-bc2bcc09e714"><br>
+<img width="1208" alt="Screenshot 2023-06-15 at 22 52 56" src="https://github.com/phaethonp/we-ai/assets/33053426/f3feb841-b4f9-41b2-8867-bc2bcc09e714"><br><br>
 # 3. Query unstructured data with natural language
 
 <img width="1024" alt="Screenshot 2023-06-15 at 23 43 13" src="https://github.com/phaethonp/we-ai/assets/33053426/12df28b9-036c-43ad-8e31-074bc4669bac">
