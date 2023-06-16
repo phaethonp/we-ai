@@ -10,26 +10,26 @@ By linking the myriad of stakeholders involved in property development processes
 The expected outcome is a transformation of disjointed steps into a seamless, assembly-line-like operation, effectively morphing the process into a more factory-like paradigm.<br><br>
 
 
+# Key components of the framework
 
 
-
-# 1. Connect Your data sources to AI engine
+## 1. Connect Your data sources to AI engine
 Integrate Your Data Sources with Our AI Engine: **Unlock** the potential of **untouched data reservoirs**. Transform every piece of information into a valuable data source. Accumulate, order, and systematize data to construct an all-encompassing knowledge base.<br><br>
 <img width="624" alt="Screenshot 2023-06-15 at 22 28 19" src="https://github.com/phaethonp/we-ai/assets/33053426/058b2632-22b6-4c07-81bd-841ee92fc43a">
 <br><br>
-# 2. Create AI Data Warehouse from Raw, Structured, or Unstructured data 
+## 2. Create AI Data Warehouse from Raw, Structured, or Unstructured data 
 Harness the power of our AI framework to establish a unified source of information. <br>
 
 <img width="1208" alt="Screenshot 2023-06-15 at 22 52 56" src="https://github.com/phaethonp/we-ai/assets/33053426/f3feb841-b4f9-41b2-8867-bc2bcc09e714"><br><br>
-# 3. Query unstructured data with natural language
+## 3. Query unstructured data with natural language
 
 <img width="1024" alt="Screenshot 2023-06-15 at 23 43 13" src="https://github.com/phaethonp/we-ai/assets/33053426/12df28b9-036c-43ad-8e31-074bc4669bac">
 <br> Image from our chatgpt plugin retrieving data from the vector database deployed http://3.8.31.17:8000/docs#/default/get_nearest_neighbors
 <br><br><br>
 
-# 4. Build powerful applications over your data <br>
+## 4. Build powerful applications over your data <br>
 Build Services you can not get anywhere else:<br>
-**AI-Powered Collaboration Platform:** Enhances stakeholder communication, reducing friction and improving project transparency.
+**AI-Powered Collaboration Platform:** Enhances stakeholder communication, reducing friction and improving project transparency.<br>
 <br>
 **Data Aggregation and Visualization:** Captures, aggregates, and presents project data comprehensively.<br>
 
@@ -41,7 +41,7 @@ Build Services you can not get anywhere else:<br>
 <br><br>
 
 
-# 5. Deploy Domain-Specific, Privately-Owned AI Models Tailored for Your Organization<br>
+## 5. Deploy Domain-Specific, Privately-Owned AI Models Tailored for Your Organization<br>
 The transition to deploying fine-tuned, domain-specific, privately-owned AI models tailored for your organization is important and necessary for several reasons:<br>
 
 **Customization:** These models are specifically designed to address your organization's unique needs, challenges, and goals. They can therefore provide solutions that are much more relevant and effective compared to generic, one-size-fits-all AI models.
@@ -55,11 +55,11 @@ The transition to deploying fine-tuned, domain-specific, privately-owned AI mode
 
 <br><br><br>
 
-# 6. The AI Project Hub. What it is and why it matters
+## 6. The AI Project Hub. What it is and why it matters
 Upon complete deployment, this AI hub empowers you to incorporate various services from multiple stakeholders, capture their operational data, and subsequently offer services that elucidate ways to enhance efficiency, consolidate resources among various parties, or improve the asset's performance.
 <br><br><br>
 
-# What we bring to the table:<br>
+# Our unique proposition. What we bring to the table:<br>
 **AI expertise** combined with our **Architecture and Construction industry Professional Experience**
 <br><br><br>
 
