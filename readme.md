@@ -1,6 +1,7 @@
 # Data framework for ai Solutions in AEC industry
 
-### Transform scattered processes into streamlined, assembly-line-like procedures<br>
+### Transform scattered processes into streamlined, assembly-line-like procedures forming a more factory-like paradigm.<br>
+
 
 
 
