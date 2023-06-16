@@ -13,11 +13,11 @@ The expected outcome is a transformation of disjointed steps into a seamless, as
 
 
 
-# 1.  Create a Data Warehouse from Raw, Structured, or Unstructured data
-Tap into untapped data pools. Convert everything into a data source. Gather, organize, and structure data and create a comprehensive knowledge base<br><br>
+# 1. Connect Your data sources to AI engine
+Integrate Your Data Sources with Our AI Engine: **Unlock** the potential of **untouched data reservoirs**. Transform every piece of information into a valuable data source. Accumulate, order, and systematize data to construct an all-encompassing knowledge base.<br><br>
 <img width="624" alt="Screenshot 2023-06-15 at 22 28 19" src="https://github.com/phaethonp/we-ai/assets/33053426/058b2632-22b6-4c07-81bd-841ee92fc43a">
 <br><br>
-# 2. Connect Your data sources to AI engine
+# 2. Create a Data Warehouse from Raw, Structured, or Unstructured data 
 Consolidate all your data in one location to establish a unified source of information. <br>
 
 <img width="1208" alt="Screenshot 2023-06-15 at 22 52 56" src="https://github.com/phaethonp/we-ai/assets/33053426/f3feb841-b4f9-41b2-8867-bc2bcc09e714"><br>
