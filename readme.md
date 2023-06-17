@@ -1,5 +1,5 @@
 # AI Data Framework for the AEC Industry
->Transform scattered processes into streamlined, assembly-line-like procedures forming a more factory-like paradigm.
+>Transform scattered processes into streamlined, assembly-line-like procedures forming a more factory-like paradigm.<br>
 >Revolutionize Management in Property Development with the AI Project Platform
 
 <br><br>
