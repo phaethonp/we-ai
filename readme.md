@@ -54,8 +54,9 @@ The transition to deploying fine-tuned, domain-specific, privately-owned AI mode
 
 
 <br><br><br>
-Data-Driven Platform Business: The new business model for property development and construction companies
+
 # Future-Forward Property Development: Data-Driven Platform Business
+Data-Driven Platform Business: The new business model for property development and construction companies
 **The AI Project Hub. What it is and why it matters**
 Upon complete deployment, this AI hub empowers you to incorporate various services from multiple stakeholders, capture their operational data, and subsequently offer services that elucidate ways to enhance efficiency, consolidate resources among various parties, or improve the asset's performance.
 <br><br><br>
