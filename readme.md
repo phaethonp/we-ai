@@ -1,5 +1,5 @@
 # AI Data Framework for the AEC Industry
-
+AI Project Hub: Revolutionizing Management in Property Development
 >Transform scattered processes into streamlined, assembly-line-like procedures forming a more factory-like paradigm.
 
 <br><br>
