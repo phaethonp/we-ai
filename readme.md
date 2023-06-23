@@ -3,11 +3,11 @@
 >Natural Language Processing (NLP): NLP provides all parties direct, easy access to project data, ensuring transparency and accuracy in decision-making.
 
 ### The new platform-based business model
->1.Architects Initiating Projects: Architects gain control, driving innovation through direct investor partnerships.<br>
->2.Investors Posing Needs: Investors express needs, directly partnering with architects and contractors.<br>
->3.Breaking Down Silos: Direct collaboration fosters integrated, efficient project teams.<br>
->4.Democratizing Property Development: Platform accessibility promotes diversity and broadens industry participation.<br>
->5.Data-Driven Decision Making: AI and analytics enhance efficiency and reduce project risks.<br>
+>**Architects Initiating Projects:** Architects gain control, driving innovation through direct investor partnerships.<br><br>
+>**Investors Posing Needs:** Investors express needs, directly partnering with architects and contractors.<br><br>
+>**Breaking Down Silos:** Direct collaboration fosters integrated, efficient project teams.<br><br>
+>**Democratizing Property Development:** Platform accessibility promotes diversity and broadens industry participation.<br><br>
+>**Data-Driven Decision Making:** AI and analytics enhance efficiency and reduce project risks.<br><br>
 
 <br><br>
 ### Why we build this framework<br>
