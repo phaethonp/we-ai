@@ -1,7 +1,13 @@
-# Data Driven Property Development Platform
-### AI Data Framework for the AEC Industry
+# Future Forward Data Driven Property Development Platform: AI Data Framework for the AEC Industry
 >Transform scattered processes into streamlined, assembly-line-like procedures forming a more factory-like paradigm.<br>
->Create a Central Platform for Data Driven management powered by AI. Connect all relevant parties to the Hub
+>Natural Language Processing (NLP): NLP provides all parties direct, easy access to project data, ensuring transparency and accuracy in decision-making.
+
+### The new platform-based business model
+>1.Architects Initiating Projects: Architects gain control, driving innovation through direct investor partnerships.
+>2.Investors Posing Needs: Investors express needs, directly partnering with architects and contractors.
+>3.Breaking Down Silos: Direct collaboration fosters integrated, efficient project teams.
+>4.Democratizing Property Development: Platform accessibility promotes diversity and broadens industry participation.
+>5.Data-Driven Decision Making: AI and analytics enhance efficiency and reduce project risks.
 
 <br><br>
 ### Why we build this framework<br>
@@ -56,7 +62,7 @@ The transition to deploying fine-tuned, domain-specific, privately-owned AI mode
 
 <br><br><br>
 
-# Future-Forward Property Development: Data-Driven Platform Business
+
 **The new business model for property development and construction companies. What it is and why it matters**<br>
 
 Upon complete deployment, this AI hub empowers you to incorporate various services from multiple stakeholders, capture their operational data, and subsequently offer services that elucidate ways to enhance efficiency, consolidate resources among various parties, or improve the asset's performance.
