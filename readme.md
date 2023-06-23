@@ -10,11 +10,12 @@ The expected outcome is a transformation of disjointed steps into a seamless, as
 
 ### The new platform-based business model
 
-**Investors Posing Needs:** Investors express needs, directly partnering with architects and contractors.<br><br>
+**Investors Posing Needs:** Investors express needs, directly **partnering with architects and contractors**<br><br>
 **Architects Initiating Projects:** Architects gain control, driving innovation through direct investor partnerships.<br><br>
 **Breaking Down Silos:** Direct collaboration fosters integrated, efficient project teams.<br><br>
 **Democratizing Property Development:** Platform accessibility promotes diversity and broadens industry participation.<br><br>
 **Data-Driven Decision Making:** AI and analytics enhance efficiency and reduce project risks.<br><br>
+**Product Marketing Manager:** Replaces the traditional "Property Developer"<br><br>
 
 
 
