@@ -196,7 +196,7 @@ Building agents in 3d Studio max and Python<br>
 
 **Data-Driven Decision Making:** The use of AI and data analytics could enable more informed and effective decision making throughout the property development process. This could reduce risk, increase efficiency, and lead to better outcomes for all parties involved.<br>
 
-In summary, this platform could significantly disrupt the property development industry, creating new opportunities for architects, investors, and contractors, and leading to a more diverse, efficient, and innovative industry.<br>
+In summary, this platform could significantly disrupt the property development industry, creating new opportunities for architects, investors, and contractors, and leading to a more diverse, efficient, and innovative industry.<be><br>
 
 ### This platform could be particularly effective for large-scale development projects for several reasons:
 
