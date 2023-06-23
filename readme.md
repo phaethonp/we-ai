@@ -1,15 +1,15 @@
 # Future Forward Data Driven Property Development Platform: AI Data Framework for the AEC Industry
->Transform scattered processes into streamlined, assembly-line-like procedures forming a more factory-like paradigm.<be><br>
->Natural Language Processing (NLP): NLP provides all parties direct, easy access to project data, ensuring transparency and accuracy in decision-making.
+>Natural Language Processing (NLP): NLP provides all parties direct, easy access to project data, ensuring transparency and accuracy in decision-making.<br><br>
+>Transform scattered processes into streamlined, assembly-line-like procedures forming a more factory-like paradigm.
 
 ### The new platform-based business model
->**Architects Initiating Projects:** Architects gain control, driving innovation through direct investor partnerships.<br><br>
+
 >**Investors Posing Needs:** Investors express needs, directly partnering with architects and contractors.<br><br>
+>**Architects Initiating Projects:** Architects gain control, driving innovation through direct investor partnerships.<br><br>
 >**Breaking Down Silos:** Direct collaboration fosters integrated, efficient project teams.<br><br>
 >**Democratizing Property Development:** Platform accessibility promotes diversity and broadens industry participation.<br><br>
 >**Data-Driven Decision Making:** AI and analytics enhance efficiency and reduce project risks.<br><br>
 
-<br><br>
 ### Why we build this framework<br>
 We address these challenges:`Friction` `Lack of Data` `Uneven Information Distribution` `Safety` `Low Productivity`<br><br>
 The **property development industry** is marked by **inherent challenges**, such as **friction** between parties due to **uneven information distribution, safety concerns**, issues related to **quality**, and **low productivity.**<br><br> 
