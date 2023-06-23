@@ -8,7 +8,7 @@ The expected outcome is a transformation of disjointed steps into a seamless, as
 
 >**Investment Attraction:** The transparency and data-driven decision-making facilitated by the platform could make large-scale projects more attractive to investors, potentially leading to an increase in the supply of housing.
 
-### The new platform-based business model. What it is and why it matters?
+### This framework could enable a new platform-based business model. What it is and why it matters?
 This platform could significantly disrupt the property development industry, creating new opportunities for architects, investors, and contractors, and leading to a more diverse, efficient, and innovative industry. Features: incorporate various services from multiple stakeholders, capture their operational data, and subsequently offer services that elucidate ways to enhance efficiency, consolidate resources among various parties, or improve the asset's performance.<br><br>
 
 **Investors Posing Needs:** Investors express needs, directly **partnering with architects and contractors**<br><br>
