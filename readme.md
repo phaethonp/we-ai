@@ -5,16 +5,16 @@ The **property development industry** is marked by **inherent challenges**, such
 By connecting the myriad of stakeholders involved in property development processes via streamlined information sharing, we can mitigate these fragmented procedures. <br><br>
 The expected outcome is a transformation of disjointed steps into a seamless, assembly-line-like operation, effectively morphing the process into a more factory-like paradigm.<br><br>
 >Natural Language Processing (NLP): NLP provides all parties direct, easy access to project data, ensuring transparency and accuracy in decision-making.<br><br>
->Transform scattered processes into streamlined, assembly-line-like procedures forming a more factory-like paradigm.<br><br>
+
 >**Investment Attraction:** The transparency and data-driven decision-making facilitated by the platform could make large-scale projects more attractive to investors, potentially leading to an increase in the supply of housing.
 
 ### The new platform-based business model
 
->**Investors Posing Needs:** Investors express needs, directly partnering with architects and contractors.<br><br>
->**Architects Initiating Projects:** Architects gain control, driving innovation through direct investor partnerships.<br><br>
->**Breaking Down Silos:** Direct collaboration fosters integrated, efficient project teams.<br><br>
->**Democratizing Property Development:** Platform accessibility promotes diversity and broadens industry participation.<br><br>
->**Data-Driven Decision Making:** AI and analytics enhance efficiency and reduce project risks.<br><br>
+**Investors Posing Needs:** Investors express needs, directly partnering with architects and contractors.<br><br>
+**Architects Initiating Projects:** Architects gain control, driving innovation through direct investor partnerships.<br><br>
+**Breaking Down Silos:** Direct collaboration fosters integrated, efficient project teams.<br><br>
+**Democratizing Property Development:** Platform accessibility promotes diversity and broadens industry participation.<br><br>
+**Data-Driven Decision Making:** AI and analytics enhance efficiency and reduce project risks.<br><br>
 
 
 
