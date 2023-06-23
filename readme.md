@@ -1,4 +1,5 @@
-# Data Driven Property Development Platform. AI Data Framework for the AEC Industry
+# Data Driven Property Development Platform. 
+### AI Data Framework for the AEC Industry
 >Transform scattered processes into streamlined, assembly-line-like procedures forming a more factory-like paradigm.<br>
 >Create a Central Platform for Data Driven management powered by AI. Connect all relevant parties to the Hub
 
