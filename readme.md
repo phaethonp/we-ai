@@ -1,5 +1,5 @@
 # Future Forward Data Driven Property Development Platform: AI Data Framework for the AEC Industry
->Transform scattered processes into streamlined, assembly-line-like procedures forming a more factory-like paradigm.<br>
+>Transform scattered processes into streamlined, assembly-line-like procedures forming a more factory-like paradigm.<be><br>
 >Natural Language Processing (NLP): NLP provides all parties direct, easy access to project data, ensuring transparency and accuracy in decision-making.
 
 ### The new platform-based business model
