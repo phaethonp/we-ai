@@ -1,4 +1,9 @@
 # Future Forward Data Driven Property Development Platform: AI Data Framework for the AEC Industry
+### Why we build this framework<br>
+We address these challenges:`Friction` `Lack of Data` `Uneven Information Distribution` `Safety` `Low Productivity`<br><br>
+The **property development industry** is marked by **inherent challenges**, such as **friction** between parties due to **uneven information distribution, safety concerns**, issues related to **quality**, and **low productivity.**<br><br> 
+By connecting the myriad of stakeholders involved in property development processes via streamlined information sharing, we can mitigate these fragmented procedures. <br><br>
+The expected outcome is a transformation of disjointed steps into a seamless, assembly-line-like operation, effectively morphing the process into a more factory-like paradigm.<br><br>
 >Natural Language Processing (NLP): NLP provides all parties direct, easy access to project data, ensuring transparency and accuracy in decision-making.<br><br>
 >Transform scattered processes into streamlined, assembly-line-like procedures forming a more factory-like paradigm.<br><br>
 >**Investment Attraction:** The transparency and data-driven decision-making facilitated by the platform could make large-scale projects more attractive to investors, potentially leading to an increase in the supply of housing.
@@ -11,11 +16,7 @@
 >**Democratizing Property Development:** Platform accessibility promotes diversity and broadens industry participation.<br><br>
 >**Data-Driven Decision Making:** AI and analytics enhance efficiency and reduce project risks.<br><br>
 
-### Why we build this framework<br>
-We address these challenges:`Friction` `Lack of Data` `Uneven Information Distribution` `Safety` `Low Productivity`<br><br>
-The **property development industry** is marked by **inherent challenges**, such as **friction** between parties due to **uneven information distribution, safety concerns**, issues related to **quality**, and **low productivity.**<br><br> 
-By connecting the myriad of stakeholders involved in property development processes via streamlined information sharing, we can mitigate these fragmented procedures. <br><br>
-The expected outcome is a transformation of disjointed steps into a seamless, assembly-line-like operation, effectively morphing the process into a more factory-like paradigm.<br><br>
+
 
 
 # Key components of the framework
