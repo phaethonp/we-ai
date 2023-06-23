@@ -182,7 +182,9 @@ Building agents in 3d Studio max and Python<br>
 
 1987-1992:School of Architecture Athens NTUA<br>
 
-# this platform could unlock numerous opportunities and reshape the traditional dynamics of the property development industry. Here's how:<br>
+# Thoughts 
+
+### This platform could unlock numerous opportunities and reshape the traditional dynamics of the property development industry. Here's how:<br>
 
 **Architects Initiating Projects:** Traditionally, architects are brought into a project after a developer has already secured land and financing. However, with this platform, architects could initiate their own projects, showcasing their designs and ideas directly to potential investors. This could give architects more control over their work and allow them to pursue more innovative or unconventional projects that might not appeal to traditional developers.<br>
 
@@ -196,7 +198,7 @@ Building agents in 3d Studio max and Python<br>
 
 In summary, this platform could significantly disrupt the property development industry, creating new opportunities for architects, investors, and contractors, and leading to a more diverse, efficient, and innovative industry.<br>
 
-# This platform could be particularly effective for large-scale development projects for several reasons:
+### This platform could be particularly effective for large-scale development projects for several reasons:
 
 Economies of Scale: Large-scale projects can often achieve economies of scale, reducing the per-unit cost of housing. This platform could further enhance these economies by streamlining the development process and reducing costs.<br><br>
 
@@ -208,7 +210,7 @@ Innovation: Large-scale projects often have more scope for innovative design and
 
 Investment Attraction: The transparency and data-driven decision-making facilitated by the platform could make large-scale projects more attractive to investors, potentially leading to an increase in the supply of housing.<br><br>
 
-# Could this platform be a solution to San Francisco's housing crisis?
+### Could this platform be a solution to San Francisco's housing crisis?
 While a platform like this could certainly contribute to addressing the housing problem in San Francisco, it's important to note that such a problem is multifaceted and influenced by a variety of factors, including zoning laws, economic conditions, population growth, and more. Here's how the platform could help:<br><br>
 
 Increasing Efficiency: By streamlining the property development process and making it more efficient, the platform could potentially reduce the time and cost of building new housing. This could lead to an increase in the supply of housing, which could help to alleviate the housing shortage.<br><br>
