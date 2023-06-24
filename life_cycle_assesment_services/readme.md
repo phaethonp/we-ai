@@ -1,4 +1,4 @@
-# Impact Calculations: 
+# Environmental Impact Calculations: 
 Through this service, calculations are conducted to assess the environmental impacts associated with a building.<br>
 * Raw Material Procurement: This includes evaluating the environmental effects related to the gathering of raw materials needed for the building.<br>
 * Production of Building Materials: The service encompasses the analysis of environmental impacts arising from the manufacturing processes of building materials.<br>
