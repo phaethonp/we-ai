@@ -8,9 +8,14 @@ The expected outcome is a transformation of disjointed steps into a seamless, as
 
 >**Investment Attraction:** The transparency and data-driven decision-making facilitated by the platform could make large-scale projects more attractive to investors, potentially leading to an increase in the supply of housing.
 
-### This framework enables a new platform-based business model for Property Development. There are two connected phases.
-# Pre-Development Platform. What it is and why it matters?
+# This framework enables a new platform-based business model
+### Pre-Development phase platform. What it is and why it matters?
+We address these challenges:`Project initiation` `Direct access to Data through NLP` `Direct Collaboration` `Low Productivity`<br><br>
 This platform could significantly disrupt the property development industry, creating new opportunities for architects, investors, and contractors, and leading to a more diverse, efficient, and innovative industry. <br><br>
+
+Architects Communicating Project Proposals: Architects can use the platform to present their project proposals, including design concepts, cost estimates, and timelines, to potential investors. The platform's AI and data analytics capabilities can help architects to optimize their proposals based on market trends and forecasts.
+
+Investors Posting Project Requests: Investors can use the platform to post requests for specific types of projects, such as sustainable housing or high-density residential buildings. Architects and contractors who specialize in these areas can then respond to these requests, leading to potential collaborations.
 
 **Investors Posing Needs:** Investors express needs, directly **partnering with architects and contractors**<br><br>
 **Architects Initiating Projects:** Architects gain control, driving innovation through direct investor partnerships.<br><br>
