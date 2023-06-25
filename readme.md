@@ -8,8 +8,10 @@ The expected outcome is a transformation of disjointed steps into a seamless, as
 
 >**Investment Attraction:** The transparency and data-driven decision-making facilitated by the platform could make large-scale projects more attractive to investors, potentially leading to an increase in the supply of housing.
 
-# What Services do we deliver, and how this product looks?
+# What product do we build? How does it look?
 This framework enables a new platform-based business model for the Pre-Development and The Project Management Phase
+![we-ai-city-view-01](https://github.com/phaethonp/we-ai/assets/33053426/a01d782a-38b3-4046-834a-e78f96a5b812)
+
 ### Pre-Development phase platform. What it is and why it matters?
 We address these challenges:`Project initiation` `Direct access to Data through NLP` `Direct Collaboration` `Low Productivity`<br><br>
 This platform could significantly disrupt the property development industry, creating new opportunities for architects, investors, and contractors, and leading to a more diverse, efficient, and innovative industry. <br><br>
