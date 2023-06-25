@@ -19,7 +19,7 @@ This framework enables:
 
 ### Pre-Development phase platform
 
-We deliver these services:'Architects Initiating Projects` `Investors Posting Project Requests`<br><br>
+We deliver these services: `Architects Initiating Projects` `Investors Posting Project Requests`<br><br>
 
 
 **Architects Communicating Project Proposals:** Architects can use the platform to present their project proposals, including design concepts, cost estimates, and timelines, to potential investors. The platform's AI and data analytics capabilities can help architects to optimize their proposals based on market trends and forecasts.
