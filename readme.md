@@ -11,20 +11,22 @@ The expected outcome is a transformation of disjointed steps into a seamless, as
 # What product do we build? How does it look?
 This framework enables:
 ### A suite of Open-Source tools served from a central point
-* Extract data from Drawings, BIM, and complex studies and deliver reliable results. Data Analytics
+* Extract data from Building Information Drawings, and complex studies. Deliver reliable results through Data Analytics
 * Ease of Access to Information through NLP: People looking to invest in property development could use the platform to access comprehensive data about potential projects, including location details, projected costs, and expected returns. The platform could also provide them with market trends and forecasts, helping them make informed investment decisions.
 * Feedback loops: The insights generated from this analysis could then be fed back into the design process, helping architects make more informed decisions about their designs
-*      for the Pre-Development and The Project Management Phase
+
 ![we-ai-city-view-01](https://github.com/phaethonp/we-ai/assets/33053426/a01d782a-38b3-4046-834a-e78f96a5b812)
 
 ### Pre-Development phase platform
 
-We deliver these services: `Architects Initiating Projects` `Investors Posting Project Requests`<br><br>
+We can deliver these services: `Architects Initiating Projects` `Investors Posting Project Requests`<br><br>
 
 
-**Architects Communicating Project Proposals:** Architects can use the platform to present their project proposals, including design concepts, cost estimates, and timelines, to potential investors. The platform's AI and data analytics capabilities can help architects to optimize their proposals based on market trends and forecasts.
+**Architects Communicating Project Proposals:** Architects can use the platform to present their project proposals, including design concepts, cost estimates, and timelines, to potential investors. 
 
 **Investors Posting Project Requests:** Investors can use the platform to post requests for specific types of projects, such as sustainable housing or high-density residential buildings. Architects and contractors who specialize in these areas can then respond to these requests, leading to potential collaborations.
+
+<br><br>The platform's AI and data analytics capabilities can help architects, and clients optimize their proposals based on market trends and forecasts.
 
 ### Project Development Management Platform
 * AI-Powered Automated Project Management:
