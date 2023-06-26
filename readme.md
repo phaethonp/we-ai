@@ -4,23 +4,25 @@ We address these challenges:`Friction` `Lack of Data` `Uneven Information Distri
 The **property development industry** is marked by **inherent challenges**, such as **friction** between parties due to **uneven information distribution, safety concerns**, issues related to **quality**, and **low productivity.**<br><br> 
 By connecting the myriad of stakeholders involved in property development processes via streamlined information sharing, we can mitigate these fragmented procedures. <br><br>
 **The Interface:**
->Natural Language Processing (NLP): NLP provides all parties direct, easy access to project data, ensuring transparency and accuracy in decision-making.<br><br>
-**The expected outcomes:**
+>Natural Language Processing (NLP): NLP provides all parties direct, easy access to project data, ensuring transparency and accuracy in decision-making.<br><be>
+
+**The expected outcomes:** <BR>
 > Transformation of disjointed steps into a seamless, assembly-line-like operation, effectively morphing the process into a more factory-like paradigm.<br><br>
 
 >**Investment Attraction:** The transparency and data-driven decision-making facilitated by the platform could make large-scale projects more attractive to investors, potentially leading to an increase in the supply of housing.
 
 # Building on the OpenAI ChatGPT Retrieval Plugin API
-### Features
-* OpenAI's ChatGPT Retrieval Plugin provides a unified API specification for document storage systems to interface with ChatGPT.
-* The plugin's deployability across various services encourages broader implementation within document retrieval systems.
-* This facilitates interaction not only with ChatGPT but also with any Large Language Model (LLM) toolkit utilizing a retrieval service.
-* The result is an increasingly interconnected ecosystem of document retrieval services and LLM toolkits.
-1. We build versatile APIs that act as `software glue`, enabling the creation of varied services.
-2. We harness open-source code, tapping into an extensive pool of resources.
-3. Our design is technology-agnostic, capable of integrating various models and tech, evolving in sync with industry advancements.
+OpenAI's ChatGPT Retrieval Plugin offers a standardized API specification, enabling document storage systems and document retrieval services to interface not only with ChatGPT, but also with any Large Language Model (LLM) toolkit that utilizes a retrieval service.<br>
+WE-AI leverages this by providing a range of integrations with the ChatGPT Retrieval Plugin API, thereby creating an interconnected ecosystem of native AI services.<be>
 
+<br>
+Key features of WE-AI include:<br>
 
+* The development of versatile APIs that serve as 'software glue', bridging the gap * between legacy systems and AI.<br>
+The utilization of open-source code, capitalizing on a vast pool of resources.<br>
+* A technology-agnostic design that allows for the integration of various models and technologies, ensuring adaptability to industry advancements.<br>
+
+# Transforming Property Development with WE-AI's AI-Driven Framework
 This framework allows us to address and connect all three stages of the property development process, facilitating collaboration among architects, contractors, and clients.<br>
 `Idea Generation and Feasibility Study`<br>
 `Pre-Development Phase`<br>
