@@ -15,7 +15,7 @@ This framework allows us to address and connect all three stages of the property
 `Pre-Development Phase`<br>
 `Automated Property Development Management`<br>
 
-### A suite of Open-Source tools served from a central point
+### A suite of Free Open-Source tools served from a central point
 * Extract data from Building Information Modelling Drawings, and complex studies. Deliver reliable results through Data Analytics
 * Ease of Access to Information through NLP: People looking to invest in property development could use the platform to access comprehensive data about potential projects, including location details, projected costs, and expected returns. The platform could also provide them with market trends and forecasts, helping them make informed investment decisions.
 * Feedback loops: The insights generated from this analysis could then be fed back into the design process, helping architects make more informed decisions about their designs
