@@ -31,8 +31,7 @@ We can deliver these services: `Architects Initiating Projects` `Investors Posti
 
 **Investors Posting Project Requests:** Investors can use the platform to post requests for specific types of projects, such as sustainable housing or high-density residential buildings. Architects and contractors who specialize in these areas can then respond to these requests, leading to potential collaborations.
 
->The platform's AI and data analytics capabilities can help architects, and clients optimize their proposals based on market trends and forecasts.
-
+>The platform's AI and data analytics capabilities can help architects, and clients optimize their proposals based on market trends and forecasts.<br>
 
 ![2468715560__create a series of scenes within the same picture_xl-beta-v2-2-2](https://github.com/phaethonp/we-ai/assets/33053426/436caf92-9f05-421c-9f47-53e1b315f5b2)
 
