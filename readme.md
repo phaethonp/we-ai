@@ -10,7 +10,16 @@ By connecting the myriad of stakeholders involved in property development proces
 
 >**Investment Attraction:** The transparency and data-driven decision-making facilitated by the platform could make large-scale projects more attractive to investors, potentially leading to an increase in the supply of housing.
 
-# Starting from a simple API
+# Building on the OpenAI ChatGPT Retrieval Plugin API
+### Features
+* OpenAI's ChatGPT Retrieval Plugin provides a unified API specification for document storage systems to interface with ChatGPT.
+* The plugin's deployability across various services encourages broader implementation within document retrieval systems.
+* This facilitates interaction not only with ChatGPT but also with any Large Language Model (LLM) toolkit utilizing a retrieval service.
+* The result is an increasingly interconnected ecosystem of document retrieval services and LLM toolkits.
+1. We build versatile APIs that act as `software glue`, enabling the creation of varied services.
+2. We harness open-source code, tapping into an extensive pool of resources.
+3. Our design is technology-agnostic, capable of integrating various models and tech, evolving in sync with industry advancements.
+
 
 This framework allows us to address and connect all three stages of the property development process, facilitating collaboration among architects, contractors, and clients.<br>
 `Idea Generation and Feasibility Study`<br>
@@ -39,7 +48,7 @@ We can deliver these services: `Architects Initiating Projects` `Investors Posti
 
 
 ### Project Manager Assistant "The Hard Hat"
-'integrated Data Sources' 'Notifications' 'Predictive Analytics'
+`integrated Data Sources` `Notifications` `Predictive Analytics`
 * The  Assistant is a comprehensive tool that is integrated with all project data sources, ensuring that all relevant project information is readily available. This means that it can access and process all the data related to a project, from design documents to financial reports, providing a holistic view of the project.
 * The Assistant leverages artificial intelligence (AI) capabilities to actively assist users in managing their projects. It does this through a combination of notifications and predictive analytics, forming an AI-Powered Automated Project Management system.<br>
   
@@ -109,7 +118,7 @@ We foresee that such cooperation will promote joint growth and enable us to adap
 
 # The WE-AI Framework
 **WE-AI Framework Design**
-1. We build versatile APIs that act as a software glue, enabling the creation of varied services.
+1. We build versatile APIs that act as `software glue`, enabling the creation of varied services.
 2. We harness open-source code, tapping into an extensive pool of resources.
 3. Our adaptive framework utilizes a technology-agnostic design, capable of integrating various models and tech, evolving in sync with industry advancements.
 
