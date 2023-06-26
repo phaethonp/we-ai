@@ -1,4 +1,4 @@
-# AI Data Framework for the AEC Industry: Future Forward Data Driven Property Development Platform
+# API for Property Development
 ### Why we build this framework<br>
 We address these challenges:`Friction` `Lack of Data` `Uneven Information Distribution` `Safety` `Low Productivity`<br><br>
 The **property development industry** is marked by **inherent challenges**, such as **friction** between parties due to **uneven information distribution, safety concerns**, issues related to **quality**, and **low productivity.**<br><br> 
