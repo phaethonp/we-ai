@@ -61,8 +61,8 @@ Harness the power of our AI framework to establish a unified source of informati
 <br> Image from our chatgpt plugin retrieving data from the vector database deployed http://3.8.31.17:8000/docs#/default/get_nearest_neighbors
 <br><br><br>
 
-## 4. Build powerful applications over your data <br>
-Build Services you can not get anywhere else:<br>
+## 4. Run powerful applications over your data <br>
+Get Services you can not find anywhere else:<br>
 **AI-Powered Collaboration Platform:** Enhances stakeholder communication, reducing friction and improving project transparency.<br>
 <br>
 **Data Aggregation and Visualization:** Captures, aggregates, and presents project data comprehensively.<br>
@@ -75,7 +75,7 @@ Build Services you can not get anywhere else:<br>
 <br><br>
 
 
-## 5. Domain-Specific, Privately-Owned AI Models Tailored for Property Development <br>
+## 5. Domain-Specific, Privately-Owned AI Models Tailored for the Property Development Industry <br>
 The transition to deploying fine-tuned, domain-specific, privately-owned AI models tailored for your organization is important and necessary for several reasons:<br>
 
 **Customization:** These models are specifically designed to address your organization's unique needs, challenges, and goals. They can therefore provide solutions that are much more relevant and effective compared to generic, one-size-fits-all AI models.
