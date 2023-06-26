@@ -74,7 +74,7 @@ Get Services you can not find anywhere else:<br>
 <br><br>
 
 
-## 5. Domain-Specific, Privately-Owned AI Models Tailored for the Property Development Industry <br>
+## 5. Access Domain-Specific, Privately-Owned AI Models Tailored for the Property Development Industry <br>
 The transition to deploying fine-tuned, domain-specific, privately-owned AI models tailored for your organization is important and necessary for several reasons:<br>
 
 **Customization:** These models are specifically designed to address your organization's unique needs, challenges, and goals. They can therefore provide solutions that are much more relevant and effective compared to generic, one-size-fits-all AI models.
@@ -90,19 +90,13 @@ The transition to deploying fine-tuned, domain-specific, privately-owned AI mode
 
 # Our unique proposition. What we bring to the table:<br>
 **AI expertise** combined with our **Architecture and Construction industry Professional Experience**
-<br><br><br>
+<br><br>
 
-# Proposed Collaboration:<br>
-We propose a collaboration where our team acts as an outsourced AI development arm for your company. In this capacity, we can:<br>
-1. Customize the AI Framework: Work closely with you to adapt our AI framework to your specific needs and objectives.
-2. Provide Access to Innovative Technology: Grant you access to cutting-edge AI technology that can be integrated into your operations.
-<br><br><br>
 ### Our current development phase:<br>
-1.Our framework is now operational on various cloud providers such as AWS services.<br>
+1.A successful proof of concept has been completed and deployed on various cloud providers such as AWS services.<br>
 2.We are currently in the phase of testing our APIs.<br>
-3.A successful proof of concept has been completed.<br>
-4.We are now prepared to transition into production development.
-<br><br><br>
+3.We are now ready to transition into production development.
+<br><br>
 ### We are seeking a strategic partnership
 We are currently seeking strategic partnerships to boost our growth and discover more uses for our technology.
 We foresee that such cooperation will promote joint growth and enable us to adapt our solution to industry-specific requirements.<br><br>
