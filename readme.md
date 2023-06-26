@@ -8,10 +8,14 @@ The expected outcome is a transformation of disjointed steps into a seamless, as
 
 >**Investment Attraction:** The transparency and data-driven decision-making facilitated by the platform could make large-scale projects more attractive to investors, potentially leading to an increase in the supply of housing.
 
-# What product do we build? How does it look?
-This framework enables:
+# Starting from a humble API: What product do we build and how does it look?
+This framework enables us to address and connect, all three stages of the Property Development process for Architects, Contractors, and Clients.
+*Idea Generation and Feasibility Study
+*Pre-Development Phase
+*Automated Property Development Management
+
 ### A suite of Open-Source tools served from a central point
-* Extract data from Building Information Drawings, and complex studies. Deliver reliable results through Data Analytics
+* Extract data from Building Information Modelling Drawings, and complex studies. Deliver reliable results through Data Analytics
 * Ease of Access to Information through NLP: People looking to invest in property development could use the platform to access comprehensive data about potential projects, including location details, projected costs, and expected returns. The platform could also provide them with market trends and forecasts, helping them make informed investment decisions.
 * Feedback loops: The insights generated from this analysis could then be fed back into the design process, helping architects make more informed decisions about their designs
 
