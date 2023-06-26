@@ -9,10 +9,11 @@ The expected outcome is a transformation of disjointed steps into a seamless, as
 >**Investment Attraction:** The transparency and data-driven decision-making facilitated by the platform could make large-scale projects more attractive to investors, potentially leading to an increase in the supply of housing.
 
 # Starting from a simple API
-This framework enables us to address and connect, all three stages of the Property Development process for Architects, Contractors, and Clients.
-`Idea Generation and Feasibility Study`
-`Pre-Development Phase`
-`Automated Property Development Management`
+
+This framework allows us to address and connect all three stages of the property development process, facilitating collaboration among architects, contractors, and clients.<br>
+`Idea Generation and Feasibility Study`<br>
+`Pre-Development Phase`<br>
+`Automated Property Development Management`<br>
 
 ### A suite of Open-Source tools served from a central point
 * Extract data from Building Information Modelling Drawings, and complex studies. Deliver reliable results through Data Analytics
