@@ -33,10 +33,15 @@ We can deliver these services: `Architects Initiating Projects` `Investors Posti
 
 >The platform's AI and data analytics capabilities can help architects, and clients optimize their proposals based on market trends and forecasts.
 
+
+![2468715560__create a series of scenes within the same picture_xl-beta-v2-2-2](https://github.com/phaethonp/we-ai/assets/33053426/436caf92-9f05-421c-9f47-53e1b315f5b2)
+
+
 ### Project Development Management Platform
 * AI-Powered Automated Project Management:
 * Project Management Services<be>
 >Features: incorporate various services from multiple stakeholders, capture their operational data, and subsequently offer services that elucidate ways to enhance efficiency, consolidate resources among various parties, or improve the asset's performance.
+![2787685912__create a series of scenes as a comic book to desc_xl-beta-v2-2-2](https://github.com/phaethonp/we-ai/assets/33053426/d64be9fc-6cdc-4e10-93b0-d27010340c62)
 
 
 # Key components of the framework
