@@ -1,5 +1,6 @@
 # API for Property Development
-WE-AI is a virtual assistant that uses project data to interpret and respond to user requests. It is specifically designed to facilitate communication among users in the property development industry. Similar to how Siri operates, but with a focus on helping a diverse group of people - architects, contractors, investors, and more - to communicate and coordinate effectively. In essence, WE-AI is the Siri for multiplayer coordination, in the Property Development Industry.<br>
+In essence, WE-AI is the Siri for multiplayer communication on a Property Development platform.
+WE-AI is a virtual assistant that uses project data to interpret and respond to user requests. It's specifically designed to facilitate communication among users in the property development industry. Think of it as Siri, but with a focus on distributing relevant information to architects, contractors, and investors at the right time, ensuring effective communication and coordination.<br>
 ### Why we build this framework<br>
 We address these challenges:`Friction` `Lack of Data` `Uneven Information Distribution` `Safety` `Low Productivity` <br><br>
 The **property development industry** is marked by **inherent challenges**, such as **friction** between parties due to **uneven information distribution, safety concerns**, issues related to **quality**, and **low productivity.**<br><br> 
@@ -24,28 +25,23 @@ The utilization of open-source code, capitalizing on a vast pool of resources.<b
 * A technology-agnostic design that allows for the integration of various models and technologies, ensuring adaptability to industry advancements.<br>
 
 # Transforming Property Development with WE-AI's AI-Driven Framework
-This framework allows us to address and connect all three stages of the property development process, facilitating collaboration among architects, contractors, and clients.<br>
-`Idea Generation and Feasibility Study`<br>
-`Pre-Development Phase`<br>
-`Automated Property Development Management`<br>
+We provide tools and resources to initiate project proposals and manage property development.<br>
 
 ### A suite of Free Open-Source tools served from a central point
-* Extract data from Building Information Modelling Drawings, and complex studies. Deliver reliable results through Data Analytics
-* Ease of Access to Information through NLP: People looking to invest in property development could use the platform to access comprehensive data about potential projects, including location details, projected costs, and expected returns. The platform could also provide them with market trends and forecasts, helping them make informed investment decisions.
-* Feedback loops: The insights generated from this analysis could then be fed back into the design process, helping architects make more informed decisions about their designs
+* Extract data from Building Information Modelling Drawings and studies. Deliver reliable results through Data Analytics
+* Ease of Access to Information through NLP: People looking to invest in property development could use the platform to access comprehensive data about potential projects, including environmental impact, market research, projected costs, and expected returns, helping them make informed investment decisions.
+* Feedback loops: The insights generated from this analysis could then be fed back into the design process, helping architects make more informed decisions about their proposals.
 
 ![we-ai-city-view-01](https://github.com/phaethonp/we-ai/assets/33053426/a01d782a-38b3-4046-834a-e78f96a5b812)
 
 ### Pre-Development phase platform
 
-We can deliver these services: `Architects Initiating Projects` `Investors Posting Project Requests`<br><br>
->The platform's AI and data analytics capabilities can help architects, and clients optimize their proposals based on market trends and forecasts.<br>
+Our platform leverages AI and data analytics to assist architects in initiating proposals and clients in requesting projects.
 
-**Architects Communicating Project Proposals:** Architects can use the platform to present their project proposals, including design concepts, cost estimates, and timelines, to potential investors. 
+**Project Proposals by Architects:** Architects can utilize the platform to present their project proposals. These proposals, which include design concepts, cost estimates, and timelines, can be effectively communicated to potential investors.
 
-**Investors Posting Project Requests:** Investors can use the platform to post requests for specific types of projects, such as sustainable housing or high-density residential buildings. Architects and contractors who specialize in these areas can then respond to these requests, leading to potential collaborations.
-
-
+**Project Requests by Investors:** Investors can use the platform to post requests for specific types of projects, such as sustainable housing or high-density residential buildings.<br>
+This opens up opportunities for architects, clients, and contractors to respond to these requests, fostering potential collaborations.<br>
 
 ![2468715560__create a series of scenes within the same picture_xl-beta-v2-2-2](https://github.com/phaethonp/we-ai/assets/33053426/436caf92-9f05-421c-9f47-53e1b315f5b2)
 
