@@ -31,7 +31,7 @@ We can deliver these services: `Architects Initiating Projects` `Investors Posti
 
 **Investors Posting Project Requests:** Investors can use the platform to post requests for specific types of projects, such as sustainable housing or high-density residential buildings. Architects and contractors who specialize in these areas can then respond to these requests, leading to potential collaborations.
 
-<br><br>The platform's AI and data analytics capabilities can help architects, and clients optimize their proposals based on market trends and forecasts.
+<br>The platform's AI and data analytics capabilities can help architects, and clients optimize their proposals based on market trends and forecasts.
 
 ### Project Development Management Platform
 * AI-Powered Automated Project Management:
