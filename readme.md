@@ -3,8 +3,10 @@
 We address these challenges:`Friction` `Lack of Data` `Uneven Information Distribution` `Safety` `Low Productivity`<br><br>
 The **property development industry** is marked by **inherent challenges**, such as **friction** between parties due to **uneven information distribution, safety concerns**, issues related to **quality**, and **low productivity.**<br><br> 
 By connecting the myriad of stakeholders involved in property development processes via streamlined information sharing, we can mitigate these fragmented procedures. <br><br>
-The expected outcome is a transformation of disjointed steps into a seamless, assembly-line-like operation, effectively morphing the process into a more factory-like paradigm.<br><br>
+**The Interface:**
 >Natural Language Processing (NLP): NLP provides all parties direct, easy access to project data, ensuring transparency and accuracy in decision-making.<br><br>
+**The expected outcomes:**
+> Transformation of disjointed steps into a seamless, assembly-line-like operation, effectively morphing the process into a more factory-like paradigm.<br><br>
 
 >**Investment Attraction:** The transparency and data-driven decision-making facilitated by the platform could make large-scale projects more attractive to investors, potentially leading to an increase in the supply of housing.
 
@@ -25,21 +27,23 @@ This framework allows us to address and connect all three stages of the property
 ### Pre-Development phase platform
 
 We can deliver these services: `Architects Initiating Projects` `Investors Posting Project Requests`<br><br>
-
+>The platform's AI and data analytics capabilities can help architects, and clients optimize their proposals based on market trends and forecasts.<br>
 
 **Architects Communicating Project Proposals:** Architects can use the platform to present their project proposals, including design concepts, cost estimates, and timelines, to potential investors. 
 
 **Investors Posting Project Requests:** Investors can use the platform to post requests for specific types of projects, such as sustainable housing or high-density residential buildings. Architects and contractors who specialize in these areas can then respond to these requests, leading to potential collaborations.
 
->The platform's AI and data analytics capabilities can help architects, and clients optimize their proposals based on market trends and forecasts.<br>
+
 
 ![2468715560__create a series of scenes within the same picture_xl-beta-v2-2-2](https://github.com/phaethonp/we-ai/assets/33053426/436caf92-9f05-421c-9f47-53e1b315f5b2)
 
 
-### Project Development Management Platform
-* AI-Powered Automated Project Management:
-* Project Management Services<be>
->Features: incorporate various services from multiple stakeholders, capture their operational data, and subsequently offer services that elucidate ways to enhance efficiency, consolidate resources among various parties, or improve the asset's performance.
+### Project Manager Assistant "The Hard Hat"
+'integrated Data Sources' 'Notifications' 'Predictive Analytics'
+* The  Assistant is a comprehensive tool that is integrated with all project data sources, ensuring that all relevant project information is readily available. This means that it can access and process all the data related to a project, from design documents to financial reports, providing a holistic view of the project.
+* The Assistant leverages artificial intelligence (AI) capabilities to actively assist users in managing their projects. It does this through a combination of notifications and predictive analytics, forming an AI-Powered Automated Project Management system.<br>
+  
+
 ![2787685912__create a series of scenes as a comic book to desc_xl-beta-v2-2-2](https://github.com/phaethonp/we-ai/assets/33053426/d64be9fc-6cdc-4e10-93b0-d27010340c62)
 
 
@@ -95,7 +99,7 @@ The transition to deploying fine-tuned, domain-specific, privately-owned AI mode
 ### Our current development phase:<br>
 1.A successful proof of concept has been completed and deployed on various cloud providers such as AWS services.<br>
 2.We are currently in the phase of testing our APIs.<br>
-3.We are now ready to transition into production development.
+3.We are now ready to transition into product development.
 <br><br>
 ### We are seeking a strategic partnership
 We are currently seeking strategic partnerships to boost our growth and discover more uses for our technology.
