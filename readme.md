@@ -192,14 +192,18 @@ As an architect both by heart and profession, I hold profound knowledge of the A
 
 2015-2017: School of Electrical and Computer Engineering ECE NTUA. I attended classes for two years as part of an interdisciplinary PhD program.<br>
 
+2013-2011 Low -Energy house in South Crete <br>
 
 2011 Began exploring Bitcoin and the potential of blockchains to run autonomous agents <br>
 
 
 2009-2011: Emergent Technologies and Design. Architectural Association of London, School of Architecture. <br>
+Thesis: Urban Metabolic Cities. Adaptive Zoning Systems and emerging forms <br>
+Building agents in 3d Studio max and Python with Genetic algorithms<br>
+
+2008: Passive Low Energy Architecture conference Dublin2008: Low Energy Houses in Greece according to the Passive House Standars, Poster presentation <br>
 
 
-Building agents in 3d Studio max and Python<br>
 
 
 1999-2013: Establish and run a Design and Build company focused on near Zero energy housing<br>
