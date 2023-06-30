@@ -1,4 +1,4 @@
-# Semantic search over BIM/IFC files 
+# Project Assistant for Semantic search over BIM/IFC files 
 Integrated BIM Data Processing and AI-driven Natural Language Response System. We will describe 2 methods which we intend to use<br>
 ### External Computation for BIM-NLP Integration
 
