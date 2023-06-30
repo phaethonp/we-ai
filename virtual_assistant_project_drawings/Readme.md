@@ -1,14 +1,17 @@
 # Semantic search over BIM/IFC files 
-The process involves creating a search system that understands the meaning of the queries and the IFC data, rather than just matching keywords.<br>
-The topic is an active area of research.<br>
-There are two distinct methodologies to tackle this issue, each serving a unique purpose:<br>
+Integrated BIM Data Processing and AI-driven Natural Language Response System<br>
 
-The first approach involves the use of a JSON file. Data is extracted from this file and sent along with the prompt to the Language Learning Model (LLM). Calculations are executed by a computation engine and subsequently submitted to the AI model via the prompt. This process ultimately returns Natural Language (NL) results to the user.<br>
-1. JSON file --> extract data--> send with the prompt to LLM. Calculations performed by a computation engine and submitted to the ai model through prompt--> return NL results to user<br>
+- **BIM to JSON**: A BIM drawing is converted into a JSON file using IfcOpenShell.<br>
+- **Storage**: The JSON file is stored in a database.<br>
+- **Computation**: Upon a user query, calculations are performed on the data.<br>
+- **AI Interaction**: The results are submitted to an AI model.<br>
+- **Output**: The AI model returns results in natural language to the user.<br>
 
-The second approach is Zero-Shot Learning.<BR>
 
-### 2. Zero-Shot Learning
+
+### The second approach is Zero-Shot Learning.<BR>
+
+2. Zero-Shot Learning
 
    
 
