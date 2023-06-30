@@ -4,10 +4,11 @@ The topic is an active area of research.<br>
 There are two distinct methodologies to tackle this issue, each serving a unique purpose:<br>
 
 The first approach involves the use of a JSON file. Data is extracted from this file and sent along with the prompt to the Language Learning Model (LLM). Calculations are executed by a computation engine and subsequently submitted to the AI model via the prompt. This process ultimately returns Natural Language (NL) results to the user.<br>
+1. JSON file --> extract data--> send with the prompt to LLM. Calculations performed by a computation engine and submitted to the ai model through prompt--> return NL results to user<br>
 
 The second approach is Zero-Shot Learning.<BR>
-1. JSON file --> extract data--> send with the prompt to LLM. Calculations performed by a computation engine and submitted to the ai model through prompt--> return NL results to user<br>
-2. Zero-Shot Learning
+
+### 2. Zero-Shot Learning
 
    
 
