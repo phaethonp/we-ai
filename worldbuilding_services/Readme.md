@@ -4,6 +4,7 @@
 
 This service is a chatbot designed to generate immersive worldbuilding scenarios for users. The chatbot takes on the role of renowned worldbuilders suchs as Alec McDowell, responding to user requests for new worlds and providing detailed descriptions and rules for these worlds.
 
+
 ## Features
 
 - **Worldbuilding Conversations**: The chatbot can engage in detailed conversations with users about the kind of world they want to create. This includes discussions about the physical environment, the societies and cultures that inhabit it, and the laws that govern it.
@@ -11,6 +12,11 @@ This service is a chatbot designed to generate immersive worldbuilding scenarios
 - **Detailed World Descriptions**: The chatbot can generate detailed descriptions of the worlds it creates, including the physical environment, the societies and cultures that inhabit it, and the laws that govern it.
 
 - **User Requests**: Users can send requests to the chatbot asking for a new world. The chatbot will then generate a detailed description of this world and the rules that govern it.
+
+- **Selectable Worldbuilders**: In addition to Alec McDowell, the service offers a variety of worldbuilders that users can choose from. Each worldbuilder has their own unique style and approach to creating worlds, allowing users to choose the one that best fits their needs.
+
+- **Story Analysis**: The service also includes a story analysis feature. Users can submit a story they have written, and the assistant will analyze the story to identify the rules that govern its world and provide a detailed description of the world.
+
 
 ## Usage
 
