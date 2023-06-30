@@ -1,5 +1,6 @@
 # Semantic search over BIM/IFC files 
-Integrated BIM Data Processing and AI-driven Natural Language Response System<br>
+Integrated BIM Data Processing and AI-driven Natural Language Response System. We will describe 2 methods which we intend to use<br>
+### External Computation for BIM-NLP Integration
 
 - **BIM to JSON**: A BIM drawing is converted into a JSON file using IfcOpenShell.<br>
 - **Storage**: The JSON file is stored in a database.<br>
@@ -9,7 +10,7 @@ Integrated BIM Data Processing and AI-driven Natural Language Response System<br
 
 
 
-### The second approach is Zero-Shot Learning.<BR>
+### Zero-Shot Learning.<BR>
 
 2. Zero-Shot Learning
 
