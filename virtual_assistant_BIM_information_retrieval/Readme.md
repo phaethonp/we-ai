@@ -1,4 +1,6 @@
-# Integrated BIM Data Processing and AI-driven Natural Language Response System. 
+# Project Assistant
+This tool would allow architects to upload their Building Information Modeling (BIM) files to the platform. The AI could then analyze these files to extract key information, such as the design features, estimated costs, and timelines. This information could be used to match project proposals with investors and to provide detailed project descriptions.<br>
+Integrated BIM Data Processing and AI-driven Natural Language Response System. 
 ### Computation approach
 - **Storage**: The JSON file is stored in a database.<br>
 - **Computation**: Upon a user query, calculations are performed on the data.<br>
