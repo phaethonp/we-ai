@@ -5,6 +5,8 @@ The development of the Data Management (DM) module for the Building Information 
 #### Step3: Validate JSON document against IFC JSON schema<br>
 #### Step5: Data extraction<br>
 #### Step6: Data preprocessing<br>
+#### Step6.1: Convert it to dataframe
+#### Step6.2: Data concatenation
 #### Step7: Data classification<br>
 #### Step8: Importing data into database<br>
 #### Step9: Transforming data inot vector embeddings<br>
