@@ -9,4 +9,5 @@ The development of the Data Management (DM) module for the Building Information 
 #### Step6.2: Data concatenation
 #### Step7: Data classification<br>
 #### Step8: Importing data into database<br>
-#### Step9: Transforming data inot vector embeddings<br>
+#### Step9: Transforming data into vector embeddings<br>
+Step9.1 Use of the BERT model<br>
