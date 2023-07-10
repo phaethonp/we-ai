@@ -1,3 +1,10 @@
+# BIM app
+Consists of three modules<br>
+* Data management module<br>
+* Query engines— Natural Language Processing Module <br>
+* User interface<br>
+
+# Data Management Module
 The development of the Data Management (DM) module for the Building Information Modeling (BIM) Information Retrieval (IR) involved several steps to prepare high-quality data. These steps included data extraction, transformation, cleaning, classification, and importing into a database.<br>
 #### Step1: Conversion of BIM file to IFC format<br>
 #### Step2: Conversion of IFC format to JSON document<br>
@@ -9,5 +16,8 @@ The development of the Data Management (DM) module for the Building Information 
 #### Step6.2: Data concatenation
 #### Step7: Data classification<br>
 #### Step8: Importing data into database<br>
+We are importing the cleaned data into the cloud-based MongoDB database. The data are stored as documents in BSON format, which allows
+for flexible and efficient querying <br>
+http://18.170.83.79:8081/db/admin/Json_Files<br>
 #### Step9: Transforming data into vector embeddings<br>
 Step9.1 Use of the BERT model<br>
