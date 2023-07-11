@@ -28,3 +28,4 @@ Step9.1 Use of the BERT model<br>
 * https://arxiv.org/pdf/2304.09333.pdf
 * https://arxiv.org/pdf/2302.10205.pdf
 * https://leanpub.com/langchain/read#basic-usage-and-examples
+* https://github.com/OpenDataBIM/data-analytics/tree/main
