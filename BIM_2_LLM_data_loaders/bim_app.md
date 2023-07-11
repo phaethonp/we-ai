@@ -21,6 +21,9 @@ for flexible and efficient querying <br>
 http://18.170.83.79:8081/db/admin/Json_Files<br>
 #### Step9: Transforming data into vector embeddings<br>
 Step9.1 Use of the BERT model<br>
+Step9.2 Use of the instructorXL model<br>
+
+
 
 
 # References
