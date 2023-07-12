@@ -6,6 +6,7 @@ Consists of three modules<br>
 
 # Data Management Module
 The development of the Data Management (DM) module for the Building Information Modeling (BIM) Information Retrieval (IR) involved several steps to prepare high-quality data. These steps included data extraction, transformation, cleaning, classification, and importing into a database.<br>
+#### Step0: Create the project BIM-IFC files database<br>
 #### Step1: Conversion of BIM file to IFC format<br>
 #### Step2: Conversion of IFC format to JSON document<br>
 #### Step2.1: Import JSON file into database<br>
