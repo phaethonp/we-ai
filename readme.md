@@ -74,8 +74,11 @@ We provide tools and resources to initiate project proposals and manage property
 * Extract data from Building Information Modelling Drawings and studies. Deliver reliable results through Data Analytics
 * People looking to invest in property development could use the platform to access comprehensive data about potential projects, including **environmental impact**, market research, **projected costs**, and expected returns, helping them make informed investment decisions.
 * Feedback loops: The insights generated from this analysis could then be fed back into the design process, helping architects make more informed decisions about their proposals.<BR><BR>
-small_blue_diamond: Automated project investment analysis
-small_blue_diamond: Automated marketing and sales
+:small_blue_diamond: Automated project investment analysis
+:small_blue_diamond: Automated marketing and sales
+
+### II PREDICTIVE REAL ESTATE INVESTMENT API
+It is our intention to add an API that predicts property development investments<BR><BR>
 
 ![we-ai-city-view-01](https://github.com/phaethonp/we-ai/assets/33053426/a01d782a-38b3-4046-834a-e78f96a5b812)
 
@@ -83,7 +86,7 @@ small_blue_diamond: Automated marketing and sales
   :large_blue_circle:
 </p>
 
-### II PROPERTY DEVELOPMENT OPPORTUNITIES STAGE
+### III PROPERTY DEVELOPMENT OPPORTUNITIES STAGE
 
 Our platform assists architects in initiating proposals and clients in requesting projects.<br>
 
@@ -101,7 +104,7 @@ This opens up opportunities for architects, clients, and contractors to respond 
 </p>
 
 
-### III PROJECT MANAGEMENT ASSISTANT "The Hard Hat"
+### IV PROJECT MANAGEMENT ASSISTANT "The Hard Hat"
 `integrated Data Sources` `Notifications` `Predictive Analytics`
 * The  Assistant is a comprehensive tool that is integrated with all project data sources, ensuring that all relevant project information is readily available. This means that it can access and process all the data related to a project, from design documents to financial reports, providing a holistic view of the project.
 * The Assistant leverages artificial intelligence (AI) capabilities to actively assist users in managing their projects. It does this through a combination of notifications and predictive analytics, forming an AI-Powered Automated Project Management system.<br>
