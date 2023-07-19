@@ -38,14 +38,14 @@ Natural Language Processing (NLP): NLP provides all parties direct, easy access 
   :large_blue_circle:
 </p>
 
-### SOLUTIONS TO DELIVER <BR>
+### EXPECTED OUTCOMES <BR>
 :small_blue_diamond: **Transformation of disjointed steps**  into a seamless, **assembly-line-like operation**, effectively morphing the process into a more factory-like paradigm.<br><br>
 
 :small_blue_diamond:**Investment Attraction:** The transparency and data-driven decision-making facilitated by the platform could make large-scale projects more attractive to investors, potentially leading to an increase in the supply of housing.<BR>
 
 :small_blue_diamond: Grant Access to global real-estate markets <br>
 
-:small_blue_diamond: **Urban challenges, and climate change solution** by enabling a new breed of property developers to emerge<br>
+:small_blue_diamond: **Urban challenges, and climate change mitigation solutions** by enabling a new breed of property developers to emerge<br>
 
 <p align="center">
   :large_blue_circle:
@@ -69,10 +69,13 @@ The utilization of open-source code, capitalizing on a vast pool of resources.<b
 # Transforming Property Development with WE-AI's AI-Driven Framework
 We provide tools and resources to initiate project proposals and manage property development.<br>
 
-### A SUITE OF FREE OPEN-SOURCE TOOLS SERVED FROM A CENTRAL POINT
+### I A SUITE OF FREE OPEN-SOURCE TOOLS SERVED FROM A CENTRAL POINT
+:small_blue_diamond: Ease of Access to Technical Information through Natural Language<br>   
 * Extract data from Building Information Modelling Drawings and studies. Deliver reliable results through Data Analytics
-* Ease of Access to Information through NLP: People looking to invest in property development could use the platform to access comprehensive data about potential projects, including environmental impact, market research, projected costs, and expected returns, helping them make informed investment decisions.
+* People looking to invest in property development could use the platform to access comprehensive data about potential projects, including **environmental impact**, market research, **projected costs**, and expected returns, helping them make informed investment decisions.
 * Feedback loops: The insights generated from this analysis could then be fed back into the design process, helping architects make more informed decisions about their proposals.<BR><BR>
+small_blue_diamond: Automated project investment analysis
+small_blue_diamond: Automated marketing and sales
 
 ![we-ai-city-view-01](https://github.com/phaethonp/we-ai/assets/33053426/a01d782a-38b3-4046-834a-e78f96a5b812)
 
@@ -80,9 +83,9 @@ We provide tools and resources to initiate project proposals and manage property
   :large_blue_circle:
 </p>
 
-### PROPERTY DEVELOPMENT OPPORTUNITIES STAGE
+### II PROPERTY DEVELOPMENT OPPORTUNITIES STAGE
 
-Our platform leverages AI and data analytics to assist architects in initiating proposals and clients in requesting projects.
+Our platform assists architects in initiating proposals and clients in requesting projects.<br>
 
 :small_blue_diamond:**Project Proposals by Architects:** Architects can utilize the platform to present their project proposals. These proposals, which include design concepts, cost estimates, and timelines, can be effectively communicated to potential investors.
 
@@ -98,7 +101,7 @@ This opens up opportunities for architects, clients, and contractors to respond 
 </p>
 
 
-### PROJECT MANAGEMENT ASSISTANT "The Hard Hat"
+### III PROJECT MANAGEMENT ASSISTANT "The Hard Hat"
 `integrated Data Sources` `Notifications` `Predictive Analytics`
 * The  Assistant is a comprehensive tool that is integrated with all project data sources, ensuring that all relevant project information is readily available. This means that it can access and process all the data related to a project, from design documents to financial reports, providing a holistic view of the project.
 * The Assistant leverages artificial intelligence (AI) capabilities to actively assist users in managing their projects. It does this through a combination of notifications and predictive analytics, forming an AI-Powered Automated Project Management system.<br>
