@@ -72,7 +72,7 @@ We provide tools and resources to initiate project proposals and manage property
 ### A SUITE OF FREE OPEN-SOURCE TOOLS SERVED FROM A CENTRAL POINT
 * Extract data from Building Information Modelling Drawings and studies. Deliver reliable results through Data Analytics
 * Ease of Access to Information through NLP: People looking to invest in property development could use the platform to access comprehensive data about potential projects, including environmental impact, market research, projected costs, and expected returns, helping them make informed investment decisions.
-* Feedback loops: The insights generated from this analysis could then be fed back into the design process, helping architects make more informed decisions about their proposals.
+* Feedback loops: The insights generated from this analysis could then be fed back into the design process, helping architects make more informed decisions about their proposals.<BR><BR>
 
 ![we-ai-city-view-01](https://github.com/phaethonp/we-ai/assets/33053426/a01d782a-38b3-4046-834a-e78f96a5b812)
 
@@ -89,7 +89,7 @@ Our platform leverages AI and data analytics to assist architects in initiating 
 :small_blue_diamond:**Project Requests by Investors:** Investors can use the platform to post requests for specific types of projects, such as sustainable housing or high-density residential buildings.<br>
 This opens up opportunities for architects, clients, and contractors to respond to these requests, fostering potential collaborations.<br>
 
-:small_blue_diamond: **Investment opportunities** by **real estate professionals**
+:small_blue_diamond: **Investment opportunities** by **real estate professionals**<BR><BR>
 
 ![2468715560__create a series of scenes within the same picture_xl-beta-v2-2-2](https://github.com/phaethonp/we-ai/assets/33053426/436caf92-9f05-421c-9f47-53e1b315f5b2)
 
