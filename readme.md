@@ -45,7 +45,7 @@ Natural Language Processing (NLP): NLP provides all parties direct, easy access 
 
 :small_blue_diamond: Grant Access to global real-estate markets <br>
 
-:small_blue_diamond: **Urban challenges, and climate change mitigation solutions** by enabling a new breed of property developers to emerge<br>
+:small_blue_diamond: **Urban challenges, and climate change mitigation solutions** by enabling a new breed of property developers and investors to emerge and transact<br>
 
 <p align="center">
   :large_blue_circle:
