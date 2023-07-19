@@ -74,8 +74,10 @@ WE-AI's AI-Driven Framework provides tools and resources to users to initiate pr
 * Extract data from Building Information Modelling Drawings and studies. Deliver reliable results through Data Analytics
 * People looking to invest in property development could use the platform to access comprehensive data about potential projects, including **environmental impact**, market research, **projected costs**, and expected returns, helping them make informed investment decisions.
 * Feedback loops: The insights generated from this analysis could then be fed back into the design process, helping architects make more informed decisions about their proposals.<BR><BR>
-:small_blue_diamond: Automated project investment analysis
-:small_blue_diamond: Automated marketing and sales
+
+:small_blue_diamond: Automated project investment analysis<br>
+
+:small_blue_diamond: Automated marketing and sales<br>
 
 ### II PREDICTIVE REAL ESTATE INVESTMENT API
 It is our intention to add an API that predicts property development investments<BR><BR>
