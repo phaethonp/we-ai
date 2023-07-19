@@ -42,7 +42,7 @@ Natural Language Processing (NLP): NLP provides all parties direct, easy access 
 
 :small_blue_diamond: Grant Access to global real-estate markets <br>
 
-:small_blue_diamond: Deliver innovative solutions to urban challenges, and climate change by enabling a new breed of property developers to emerge<br>
+:small_blue_diamond: **Urban challenges, and climate change solution** by enabling a new breed of property developers to emerge<br>
 
 <p align="center">
   :large_blue_circle:
@@ -73,16 +73,26 @@ We provide tools and resources to initiate project proposals and manage property
 
 ![we-ai-city-view-01](https://github.com/phaethonp/we-ai/assets/33053426/a01d782a-38b3-4046-834a-e78f96a5b812)
 
+<p align="center">
+  :large_blue_circle:
+</p>
+
 ### PROPERTY DEVELOPMENT OPPORTUNITIES STAGE
 
 Our platform leverages AI and data analytics to assist architects in initiating proposals and clients in requesting projects.
 
-**Project Proposals by Architects:** Architects can utilize the platform to present their project proposals. These proposals, which include design concepts, cost estimates, and timelines, can be effectively communicated to potential investors.
+:small_blue_diamond:**Project Proposals by Architects:** Architects can utilize the platform to present their project proposals. These proposals, which include design concepts, cost estimates, and timelines, can be effectively communicated to potential investors.
 
-**Project Requests by Investors:** Investors can use the platform to post requests for specific types of projects, such as sustainable housing or high-density residential buildings.<br>
+:small_blue_diamond:**Project Requests by Investors:** Investors can use the platform to post requests for specific types of projects, such as sustainable housing or high-density residential buildings.<br>
 This opens up opportunities for architects, clients, and contractors to respond to these requests, fostering potential collaborations.<br>
 
+:small_blue_diamond: **Investment opportunities** by **real estate professionals**
+
 ![2468715560__create a series of scenes within the same picture_xl-beta-v2-2-2](https://github.com/phaethonp/we-ai/assets/33053426/436caf92-9f05-421c-9f47-53e1b315f5b2)
+
+<p align="center">
+  :large_blue_circle:
+</p>
 
 
 ### PROJECT MANAGEMENT ASSISTANT "The Hard Hat"
