@@ -39,7 +39,7 @@ Natural Language Processing (NLP): NLP provides all parties direct, easy access 
 </p>
 
 ### EXPECTED OUTCOMES <BR>
-:small_blue_diamond: **Transformation of disjointed steps**  into a seamless, **assembly-line-like operation**, effectively morphing the process into a more factory-like paradigm.<br><br>
+:small_blue_diamond: **Transformation of disjointed steps**  into a seamless, **assembly-line-like operation**, effectively morphing the process into a more factory-like paradigm.<br>
 
 :small_blue_diamond:**Investment Attraction:** The transparency and data-driven decision-making facilitated by the platform could make large-scale projects more attractive to investors, potentially leading to an increase in the supply of housing.<BR>
 
