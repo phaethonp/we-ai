@@ -20,11 +20,11 @@ WE-AI aims to create a platform that automates property development. This platfo
 
 ### WHY WE BUILD THIS FRAMEWORK<br>
 We address these challenges:<br>
-:small_blue_diamond: `Friction` `Lack of Data` `Uneven Information Distribution` `Safety` `Low Productivity` <br><br>
-The **property development industry** is marked by **inherent challenges**, such as **friction** between parties due to **uneven information distribution, safety concerns**, issues related to **quality**, and **low productivity.**<br><br> 
-By connecting the myriad of stakeholders involved in property development processes via streamlined information sharing, we can mitigate these fragmented procedures. <br><br>
+:small_blue_diamond: `Friction` `Lack of Data` `Uneven Information Distribution` `Safety` `Low Productivity` <br>
+The **property development industry** is marked by **inherent challenges**, such as **friction** between parties due to **uneven information distribution, safety concerns**, issues related to **quality**, and **low productivity.**<br>
+By connecting the myriad of stakeholders involved in property development processes via streamlined information sharing, we can mitigate these fragmented procedures. <br>
 
-:small_blue_diamond: `Urban challenges`, and `climate change solution`
+:small_blue_diamond: `Urban challenges`, and `climate change solutions`
 
 <p align="center">
   :large_blue_circle:
