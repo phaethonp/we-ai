@@ -18,17 +18,31 @@ WE-AI aims to create a platform that automates property development. This platfo
 </p>
 
 
-### Why we build this framework<br>
+### WHY WE BUILD THIS FRAMEWORK<br>
 We address these challenges:`Friction` `Lack of Data` `Uneven Information Distribution` `Safety` `Low Productivity` <br><br>
 The **property development industry** is marked by **inherent challenges**, such as **friction** between parties due to **uneven information distribution, safety concerns**, issues related to **quality**, and **low productivity.**<br><br> 
 By connecting the myriad of stakeholders involved in property development processes via streamlined information sharing, we can mitigate these fragmented procedures. <br><br>
-**The Interface:**
->Natural Language Processing (NLP): NLP provides all parties direct, easy access to project data, ensuring transparency and accuracy in decision-making.<br><be>
 
-**The expected outcomes:** <BR>
-> Transformation of disjointed steps into a seamless, assembly-line-like operation, effectively morphing the process into a more factory-like paradigm.<br><br>
+<p align="center">
+  :large_blue_circle:
+</p>
 
->**Investment Attraction:** The transparency and data-driven decision-making facilitated by the platform could make large-scale projects more attractive to investors, potentially leading to an increase in the supply of housing.
+
+### THE INTERFACE
+Natural Language Processing (NLP): NLP provides all parties direct, easy access to project data, ensuring transparency and accuracy in decision-making.<br><bR>
+
+<p align="center">
+  :large_blue_circle:
+</p>
+
+### EXPECTED OUTCOMES <BR>
+:small_blue_diamond: **Transformation of disjointed steps**  into a seamless, **assembly-line-like operation**, effectively morphing the process into a more factory-like paradigm.<br><br>
+
+:small_blue_diamond:**Investment Attraction:** The transparency and data-driven decision-making facilitated by the platform could make large-scale projects more attractive to investors, potentially leading to an increase in the supply of housing.<BR>
+
+:small_blue_diamond: Grant Access to global real-estate markets <br>
+
+:small_blue_diamond: Deliver innovative solutions to urban challenges, and climate change by enabling a new breed of property developers to emerge<br>
 
 # Building on the OpenAI ChatGPT Retrieval Plugin API
 OpenAI's ChatGPT Retrieval Plugin offers a standardized API specification, enabling document storage systems and document retrieval services to interface not only with ChatGPT, but also with any Large Language Model (LLM) toolkit that utilizes a retrieval service.<br>
