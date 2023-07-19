@@ -44,6 +44,10 @@ Natural Language Processing (NLP): NLP provides all parties direct, easy access 
 
 :small_blue_diamond: Deliver innovative solutions to urban challenges, and climate change by enabling a new breed of property developers to emerge<br>
 
+<p align="center">
+  :large_blue_circle:
+</p>
+
 # Building on the OpenAI ChatGPT Retrieval Plugin API
 OpenAI's ChatGPT Retrieval Plugin offers a standardized API specification, enabling document storage systems and document retrieval services to interface not only with ChatGPT, but also with any Large Language Model (LLM) toolkit that utilizes a retrieval service.<br>
 WE-AI leverages this by providing a range of integrations with the ChatGPT Retrieval Plugin API, thereby creating an interconnected ecosystem of native AI services.<be>
@@ -55,17 +59,21 @@ Key features of WE-AI include:<br>
 The utilization of open-source code, capitalizing on a vast pool of resources.<br>
 * A technology-agnostic design that allows for the integration of various models and technologies, ensuring adaptability to industry advancements.<br>
 
+<p align="center">
+  :large_blue_circle:
+</p>
+
 # Transforming Property Development with WE-AI's AI-Driven Framework
 We provide tools and resources to initiate project proposals and manage property development.<br>
 
-### A suite of Free Open-Source tools served from a central point
+### A SUITE OF FREE OPEN-SOURCE TOOLS SERVED FROM A CENTRAL POINT
 * Extract data from Building Information Modelling Drawings and studies. Deliver reliable results through Data Analytics
 * Ease of Access to Information through NLP: People looking to invest in property development could use the platform to access comprehensive data about potential projects, including environmental impact, market research, projected costs, and expected returns, helping them make informed investment decisions.
 * Feedback loops: The insights generated from this analysis could then be fed back into the design process, helping architects make more informed decisions about their proposals.
 
 ![we-ai-city-view-01](https://github.com/phaethonp/we-ai/assets/33053426/a01d782a-38b3-4046-834a-e78f96a5b812)
 
-### Pre-Development phase platform
+### PROPERTY DEVELOPMENT OPPORTUNITIES STAGE
 
 Our platform leverages AI and data analytics to assist architects in initiating proposals and clients in requesting projects.
 
@@ -77,7 +85,7 @@ This opens up opportunities for architects, clients, and contractors to respond 
 ![2468715560__create a series of scenes within the same picture_xl-beta-v2-2-2](https://github.com/phaethonp/we-ai/assets/33053426/436caf92-9f05-421c-9f47-53e1b315f5b2)
 
 
-### Project Manager Assistant "The Hard Hat"
+### PROJECT MANAGEMENT ASSISTANT "The Hard Hat"
 `integrated Data Sources` `Notifications` `Predictive Analytics`
 * The  Assistant is a comprehensive tool that is integrated with all project data sources, ensuring that all relevant project information is readily available. This means that it can access and process all the data related to a project, from design documents to financial reports, providing a holistic view of the project.
 * The Assistant leverages artificial intelligence (AI) capabilities to actively assist users in managing their projects. It does this through a combination of notifications and predictive analytics, forming an AI-Powered Automated Project Management system.<br>
@@ -85,6 +93,9 @@ This opens up opportunities for architects, clients, and contractors to respond 
 
 ![2787685912__create a series of scenes as a comic book to desc_xl-beta-v2-2-2](https://github.com/phaethonp/we-ai/assets/33053426/d64be9fc-6cdc-4e10-93b0-d27010340c62)
 
+<p align="center">
+  :large_blue_circle:
+</p>
 
 # Key components of the framework
 
