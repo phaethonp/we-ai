@@ -66,8 +66,8 @@ The utilization of open-source code, capitalizing on a vast pool of resources.<b
   :large_blue_circle:
 </p>
 
-# Transforming Property Development with WE-AI's AI-Driven Framework
-We provide tools and resources to initiate project proposals and manage property development.<br>
+# Transforming Property Development 
+WE-AI's AI-Driven Framework provides tools and resources to users to initiate project proposals and manage property development.<br>
 
 ### I A SUITE OF FREE OPEN-SOURCE TOOLS SERVED FROM A CENTRAL POINT
 :small_blue_diamond: Ease of Access to Technical Information through Natural Language<br>   
