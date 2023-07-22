@@ -25,8 +25,8 @@ An example of such a source: https://www.europarl.europa.eu/resources/library/me
 The servcie provides an efficient information retrieval system through a Question Answering interface using Natural Language.
 
 
-:small_blue_diamond:Business Agent to proactively identify and serve relevant information to the user and business entity<br>
-The system provides a Business Assistant Agent for proactively identifying and serving relevant content to the user.
+:small_blue_diamond:
+The system provides a personal Assistant Agent for proactively identifying and serving relevant content to the user.
 
 
 :small_blue_diamond: Augmented Investigative Journalist:<BR>
@@ -34,7 +34,7 @@ we offer journalists an environment and interface where they can write news arti
 
 Users can then delve into these articles and additional materials, sparking discussions. This interactive system enhances user engagement with the articles and their linked resources, encouraging a rich and interactive conversation.<br>
 
-
+# Business Imtelligence automation
 
 # Inventing new forms of Investigative Journalism and Dynamic Guided User-Centric Content Generation
 
