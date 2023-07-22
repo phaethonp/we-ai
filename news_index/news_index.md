@@ -5,9 +5,9 @@ Autonomously operating, self-automated newspaper, converting complex legislative
 ### WORKING MECHANISM
 News Index is an **autonomously operating** news platform, powered by machine learning and natural language processing, that **automatically fetches and deciphers** legislation and regulations from government sources, converting them into easily comprehensible news articles. Essentially, it is a newspaper that's autonomously composed by the system<br>
 
-:small_blue_diamond: The service interfaces with various legislative sources, in any state, country, or continent, independently gathering and interpreting legislations or regulations.<br>
-:small_blue_diamond: Subsequently, it generates a headline and a concise summary for user presentation.<br>
-:small_blue_diamond: Once the article is created, it is served to the user in a user-friendly format. Users can interact with the content, asking questions or seeking additional information.<br>
+:small_blue_diamond: The service interfaces with various legislative sources, in any state, country, or continent, independently gathering and interpreting legislations or regulations.<br><br>
+:small_blue_diamond: Subsequently, it generates a headline and a concise summary for user presentation.<br><br>
+:small_blue_diamond: Once the article is created, it is served to the user in a user-friendly format. Users can interact with the content, asking questions or seeking additional information.<br><br>
 
 
 
@@ -40,9 +40,9 @@ Users can then delve into these articles and additional materials, sparking disc
 
 >  We create a radical shift from traditional content writing to curated-guided user-centric content generation. Here's a step-by-step explanation of the process:<br>
 
-* The journalist creates an "Article" within our database that stores all the supporting materials for the news story<br>
-* The journalist designs a prompt that effectively guides the AI model's response to user-submitted queries.<br>
-* The user submits a question and receives a response.<br><br>
+:small_blue_diamond:The journalist creates an "Article" within our database that stores all the supporting materials for the news story<br><br>
+:small_blue_diamond: The journalist designs a prompt that effectively guides the AI model's response to user-submitted queries.<br><br>
+:small_blue_diamond:The user submits a question and receives a response from the system that is guided by the Journalist.<br><br>
 
 The article presented to the user is uniquely shaped by the journalist's guidance, but it is not explicitly created by the journalist.
 In essence, this method introduces a novel way of producing investigative journalism content and dynamically generating guided content, all guided by the journalist but not manually created by them.<br>
