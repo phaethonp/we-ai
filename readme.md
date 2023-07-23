@@ -2,20 +2,9 @@
 In essence, WE-AI is the Siri for multiplayer communication on a Property Development platform.
 WE-AI is a virtual assistant that uses project data to interpret and respond to user requests. It's specifically designed to facilitate communication among users in the property development industry. Think of it as Siri, but with a focus on distributing relevant information to architects, contractors, and investors at the right time, ensuring effective communication and coordination.<br>
 
-### APIs AUTOMATE PROPERTY DEVELOPMENT
+### AUTOMATING PROPERTY DEVELOPMENT
 WE-AI aims to create a platform that automates property development. This platform identifies property development opportunities and displays relevant information about the respective development project. Upon subscription to our services, users gain access to all pertinent information about the project through a Question and Answer service, facilitated by an Artificial Intelligence Agent utilizing Natural Language Processing. Furthermore, users can program the AI Agent via Natural Language Processing to receive project-specific notifications.<br>
 
-* Allows users to submit their own property development proposals for analysis.<br>
-* The system analyzes these proposals and makes relevant information available.<br>
-* Identifies property development opportunities tailored to user preferences.<br>
-* Displays comprehensive information about each development project.<br>
-* Provides a Question and Answer service powered by an AI Agent using Natural Language Processing.<br>
-* Enables users to program the AI Agent to receive project-specific notifications.<br>
-
-
-<p align="center">
-  :large_blue_circle:
-</p>
 
 
 ### WHY WE BUILD THIS FRAMEWORK<br>
@@ -88,7 +77,7 @@ It is our intention to add an API that predicts property development investments
   :large_blue_circle:
 </p>
 
-### III PROPERTY DEVELOPMENT OPPORTUNITIES STAGE
+### III IDENTIFYING PROPERTY DEVELOPMENT OPPORTUNITIES
 
 Our platform assists architects in initiating proposals and clients in requesting projects.<br>
 
