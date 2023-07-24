@@ -3,7 +3,9 @@ Autonomously operating, self-automated newspaper, converting complex legislative
 
 
 ### DETAIL DESCRIPTION
-News Index is an **autonomously operating** news platform, powered by machine learning and natural language processing, that **automatically fetches and deciphers** legislation and regulations from government sources, converting them into easily comprehensible news articles. Essentially, it is a newspaper that's autonomously composed by the system<br>
+News Index is an **autonomously operating** news platform, powered by machine learning and natural language processing, that **automatically fetches and deciphers** legislation and regulations from government sources, converting them into easily comprehensible news articles.<br>
+
+**How it works**
 
 :small_blue_diamond: The service interfaces with various legislative sources, in any state, country, or continent, independently gathering and interpreting legislations or regulations.<br><br>
 :small_blue_diamond: Subsequently, it generates a headline and a concise summary for user presentation.<br><br>
