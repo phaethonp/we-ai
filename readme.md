@@ -7,6 +7,25 @@ WE-AI is a virtual assistant that uses project data to interpret and respond to 
 </p>
 
 
+### The new context created by Generative AI
+Large Language Models are a phenomenal technology that will reshape the property development industry, from the investment decision stage down to daily construction site operations<br>
+
+We are creating a comprehensive toolkit to glue together legacy technologies with Generative AI and address inherent challenges of the property development industry<br>
+We see a potential for Generative AI to address challenges at the following levels:<br>
+
+:small_blue_diamond: Decision Making and Pre-Investment Phase: `Climate Change Solutions` `ESG compliance`<br>
+:small_blue_diamond: Design and pre-construction stage:  
+
+:small_blue_diamond: Construction and project management: `Friction` `Lack of Data` `Uneven Information Distribution` `Safety` `Low Productivity` <br>
+The **property development industry** is marked by **inherent challenges**, such as **friction** between parties due to **uneven information distribution, safety concerns**, issues related to **quality**, and **low productivity.**<br>
+By connecting the myriad of stakeholders involved in property development processes via streamlined information sharing, we can mitigate these fragmented procedures. <br>
+
+
+
+<p align="center">
+  :large_blue_circle:
+</p>
+
 # Building on the OpenAI ChatGPT Retrieval Plugin API
 OpenAI's ChatGPT Retrieval Plugin offers a standardized API specification, enabling document storage systems and document retrieval services to interface not only with ChatGPT, but also with any Large Language Model (LLM) toolkit that utilizes a retrieval service.<br>
 WE-AI leverages this by providing a range of integrations with the ChatGPT Retrieval Plugin API, thereby creating an interconnected ecosystem of native AI services.<be>
