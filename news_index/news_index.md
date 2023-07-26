@@ -62,8 +62,12 @@ Inventing new forms of Investigative Journalism <br>
 The article presented to the user is uniquely shaped by the journalist's guidance, but it is not explicitly created by the journalist.
 In essence, this method introduces a novel way of producing investigative journalism content and dynamically generating guided content, all guided by the journalist but not manually created by them.<br>
 
+<p align="center">
+  :large_blue_circle:
+</p>
 
-# Jobs To Be Done Statement
+
+# Woh we build for and why: Jobs To Be Done Statement
 ### When I,<br>
 as a user or business entity, need to understand complex legislative documents and identify risks and opportunities related to legislative changes, <br>
 ### but <br>
