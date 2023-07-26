@@ -67,7 +67,8 @@ In essence, this method introduces a novel way of producing investigative journa
 </p>
 
 
-# Who we build for and why: Jobs To Be Done Statement
+# Who we build for and why: 
+## Jobs To Be Done Statement
 ### When I,<br>
 as a user or business entity, need to understand complex legislative documents and identify risks and opportunities related to legislative changes, <br>
 ### but <br>
@@ -75,8 +76,34 @@ find it difficult and time-consuming due to the complexity of these documents an
 ### help me<br>
 by providing an AI system that can fetch, decipher, and convert these documents into easily understandable news articles and provide risk management and business opportunity reports, <br>
 ### so <br>
-I can make informed decisions and effectively manage risks and identify new opportunities<br>
+I can make informed decisions and effectively manage risks and identify new opportunities<be>
 
+>**Core Audience:**
+* individuals who need to understand complex legislative documents for personal or professional reasons, and
+* small and medium businesses that need to understand these documents to manage risks and identify opportunities related to legislative changes.
+* journalists
+
+>**Motivations:**
+* the need to understand complex legislative documents,
+* the desire to stay informed about legislative changes,
+* the need to manage risks related to these changes, and
+* the desire to identify new business opportunities arising from these changes.
+* They want a solution that can simplify these documents, provide a centralized platform for this information, and offer actionable insights for risk management and opportunity identification.
+
+>**Barriers:**
+* the complexity and technical language of legislative documents, the time and effort required to understand these documents,
+*  the lack of a centralized platform that provides all these services, and
+*  the difficulty of identifying risks and opportunities related to legislative changes.
+
+>**What else are they hiring/firing:**
+* hiring legal consultation services,
+* news outlets,
+* research and analytics firms,
+* government websites,
+* online legal platforms,
+* risk management software,
+* business intelligence tools, and
+* social media platforms 
 
 
 
