@@ -63,6 +63,17 @@ The article presented to the user is uniquely shaped by the journalist's guidanc
 In essence, this method introduces a novel way of producing investigative journalism content and dynamically generating guided content, all guided by the journalist but not manually created by them.<br>
 
 
+# Jobs To Be Done Statement
+### When I,<br>
+as a user or business entity, need to understand complex legislative documents and identify risks and opportunities related to legislative changes, <br>
+### but <br>
+find it difficult and time-consuming due to the complexity of these documents and lack of a centralized platform, <br>
+### help me<br>
+by providing an AI system that can fetch, decipher, and convert these documents into easily understandable news articles and provide risk management and business opportunity reports, <br>
+### so <br>
+I can make informed decisions and effectively manage risks and identify new opportunities<br>
+
+
 
 
 
