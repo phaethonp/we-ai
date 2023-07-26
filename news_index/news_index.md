@@ -78,6 +78,8 @@ by providing an AI system that can fetch, decipher, and convert these documents 
 ### so <br>
 I can make informed decisions and effectively manage risks and identify new opportunities<be>
 
+### HIGH RESOLUTION ANALYSIS
+
 >**Core Audience:**
 * individuals who need to understand complex legislative documents for personal or professional reasons, and
 * small and medium businesses that need to understand these documents to manage risks and identify opportunities related to legislative changes.
