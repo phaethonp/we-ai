@@ -67,7 +67,7 @@ In essence, this method introduces a novel way of producing investigative journa
 </p>
 
 
-# Woh we build for and why: Jobs To Be Done Statement
+# Who we build for and why: Jobs To Be Done Statement
 ### When I,<br>
 as a user or business entity, need to understand complex legislative documents and identify risks and opportunities related to legislative changes, <br>
 ### but <br>
