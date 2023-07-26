@@ -105,7 +105,12 @@ I can make informed decisions and effectively manage risks and identify new oppo
 * online legal platforms,
 * risk management software,
 * business intelligence tools, and
-* social media platforms 
+* social media platforms
+* 
+
+
+### REFERENCES
+https://www.uschamber.com/small-business/state-of-small-business-now
 
 
 
