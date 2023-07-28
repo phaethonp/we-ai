@@ -10,7 +10,9 @@ Autonomously operating, self-automated newspaper, converting complex legislative
 :small_blue_diamond: Once the article is created, it is served to the user in a user-friendly format. Users can interact with the content, asking questions or seeking additional information.<br><br>
 :small_blue_diamond: An automated service provides business entities with risk management and business opportunity reports. <br><br>
 
-
+<p align="center">
+  :large_blue_circle:
+</p>
 
 # Providing Automated Business Services
 The system, the "newspaper", will be capable of equipping businesses or individuals with insights into potential risks and opportunities linked to legislation that directly relates to their business or interests.<br> These insights are essential in formulating a robust risk management strategy or devising a business plan.
@@ -20,7 +22,9 @@ The system generates concise reports, specific to the business-user, evaluating 
 
 :small_blue_diamond: Business Opportunity Services<br>
 The system could generate reports analyzing potential opportunities in different markets based on legislative changes. <br>
-
+<p align="center">
+  :large_blue_circle:
+</p>
 
 
 # Dynamic User-Centric Guided Content Generation
@@ -53,6 +57,9 @@ we offer journalists an environment and interface where they can write news arti
 
 Users can then delve into these articles and additional materials, sparking discussions. This interactive system enhances user engagement with the Journalist, its work articles, and their linked resources, encouraging a rich and interactive conversation.<br>
 
+<p align="center">
+  :large_blue_circle:
+</p>
 
 
 # Who we build for and why: 
@@ -65,6 +72,10 @@ find it difficult and time-consuming due to the complexity of these documents an
 by providing an AI system that can fetch, decipher, and convert these documents into easily understandable news articles and provide risk management and business opportunity reports, <br>
 ### so <br>
 I can make informed decisions and effectively manage risks and identify new opportunities<be>
+
+<p align="center">
+  :large_blue_circle:
+</p>
 
 ### HIGH RESOLUTION ANALYSIS
 
@@ -96,9 +107,12 @@ I can make informed decisions and effectively manage risks and identify new oppo
 * social media platforms
 * 
 
+<p align="center">
+  :large_blue_circle:
+</p>
 
 ### DETAIL DESCRIPTION
-News Index is an **autonomously operating** news platform, powered by machine learning and natural language processing, that **automatically fetches and deciphers** legislation and regulations from government sources, converting them into easily comprehensible news articles.<be><br>
+News Index is an **autonomously operating** news platform, powered by machine learning and natural language processing, that **automatically fetches and deciphers** legislation and regulations from government sources, converting them into easily comprehensible news articles.<br><br>
 
 ### GLOBAL REACH & IMPACT
 The service interfaces with various legislative sources, in any state, country, or continent, independently gathering and interpreting legislation or regulations.
