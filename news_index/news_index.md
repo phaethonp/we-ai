@@ -14,7 +14,7 @@ Autonomously operating, self-automated newspaper, converting complex legislative
   :large_blue_circle:
 </p>
 
-# Providing Automated Business Services
+# Providing Automated Services to Small Busines
 The system, the "newspaper", will be capable of equipping businesses or individuals with insights into potential risks and opportunities linked to legislation that directly relates to their business or interests.<br> These insights are essential in formulating a robust risk management strategy or devising a business plan.
 
 :small_blue_diamond: Risk Management Services<br>
