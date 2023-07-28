@@ -64,7 +64,7 @@ Users can then delve into these articles and additional materials, sparking disc
 
 # Who we build for and why: 
 ## Jobs To Be Done Statement
-**When I,**as a user or business entity, need to understand complex legislative documents and identify risks and opportunities related to legislative changes, **but** find it difficult and time-consuming due to the complexity of these documents and lack of a centralized platform,  **help me** by providing an AI system that can fetch, decipher, and convert these documents into easily understandable news articles and provide risk management and business opportunity reports, **so** I can make informed decisions and effectively manage risks and identify new opportunities<br>
+**When I**,as a user or business entity, need to understand complex legislative documents and identify risks and opportunities related to legislative changes, **but** find it difficult and time-consuming due to the complexity of these documents and lack of a centralized platform,  **help me** by providing an AI system that can fetch, decipher, and convert these documents into easily understandable news articles and provide risk management and business opportunity reports, **so** I can make informed decisions and effectively manage risks and identify new opportunities<br>
 
 <p align="center">
   :large_blue_circle:
