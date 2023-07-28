@@ -15,7 +15,7 @@ Autonomously operating, self-automated newspaper, converting complex legislative
 </p>
 
 # Providing Automated Services to Small Business
-The system, the "newspaper", will be capable of equipping businesses or individuals with insights into potential risks and opportunities linked to legislation that directly relates to their business or interests.<br> These insights are essential in formulating a robust risk management strategy or devising a business plan.
+Our AI Engines, are capable of equipping businesses and individuals with insights into potential risks and opportunities linked to legislation that directly relates to their business or interests.<br> These insights are essential in formulating a robust risk management strategy or devising a business plan.<br>
 
 :small_blue_diamond: Risk Management Services<br>
 The system generates concise reports, specific to the business-user, evaluating legislative changes, assessing risk severity, business impact likelihood, and suggesting mitigation strategies<be><br>
