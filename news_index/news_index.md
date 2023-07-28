@@ -23,6 +23,7 @@ The system generates concise reports, specific to the business-user, evaluating 
 
 :small_blue_diamond: Business Opportunity Services<br>
 The system could generate reports analyzing potential opportunities in different markets based on legislative changes. <br>
+
 <p align="center">
   :large_blue_circle:
 </p>
