@@ -4,8 +4,11 @@ Autonomously operating, self-automated AI provider of real-time legislative news
 **How it works**
 
 :small_blue_diamond: The service interfaces with various legislative sources, in any state, country, or continent, independently gathering and interpreting legislations or regulations.<br><br>
+
 :small_blue_diamond: Subsequently, it generates a headline and a concise summary for user presentation.<br><br>
+
 :small_blue_diamond: Once the article is created, it is served to the user in a user-friendly format. Users can interact with the content, asking questions or seeking additional information.<br><br>
+
 :small_blue_diamond: An automated service provides business entities with risk management and business opportunity reports. <br><br>
 
 <p align="center">
