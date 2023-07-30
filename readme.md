@@ -1,7 +1,15 @@
-# APIs for Property Development
-### An experiment on building a GAI property development `agent` and achieving the provision of affordable housing
-WE-AI is Siri for multiplayer communication on a Property Development platform.
+# An experiment on building a GAI property development `agent` and achieving the provision of affordable housing
+
+We are developing an experimental, open-source application that leverages Neural Networks and Generative AI to automate the entire property development process. Driven by Large Language Models, this program seamlessly integrates various processes to autonomously achieve our primary goal of promoting affordable housing, within the framework set by the Builder's Remedy legislation. Broader applications for the property development industry may follow.<br>
+
+The `User Interface`<br>
+WE-AI is a Generative (AI) Artificial intelligence agent for multiplayer communication on a Property Development platform.
 WE-AI is a virtual assistant that uses project data to interpret and respond to user requests. It's specifically designed to facilitate communication among users in the property development industry. Think of it as Siri, but with a focus on distributing relevant information to architects, contractors, and investors at the right time, ensuring effective communication and coordination.<br>
+
+### THE FUTURE OF GENERAL AI
+In the context of our platform, the Generative AI agent is used to generate project proposals based on patterns in successful proposals, while a General AI agent (if it existed) could potentially handle every aspect of the platform, from identifying opportunities to managing projects.<br>
+For now we "glue" processes with APIs to automate processes<br>
+
 
 <p align="center">
   :large_blue_circle:
