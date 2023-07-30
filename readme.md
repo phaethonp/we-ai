@@ -1,4 +1,5 @@
 # APIs for Property Development
+### An experiment on building a GAI property development `agent` and achieving the provision of affordable housing
 WE-AI is Siri for multiplayer communication on a Property Development platform.
 WE-AI is a virtual assistant that uses project data to interpret and respond to user requests. It's specifically designed to facilitate communication among users in the property development industry. Think of it as Siri, but with a focus on distributing relevant information to architects, contractors, and investors at the right time, ensuring effective communication and coordination.<br>
 
