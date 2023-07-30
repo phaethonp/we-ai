@@ -1,5 +1,5 @@
 # APIs for Property Development
-In essence, WE-AI is the Siri for multiplayer communication on a Property Development platform.
+WE-AI is Siri for multiplayer communication on a Property Development platform.
 WE-AI is a virtual assistant that uses project data to interpret and respond to user requests. It's specifically designed to facilitate communication among users in the property development industry. Think of it as Siri, but with a focus on distributing relevant information to architects, contractors, and investors at the right time, ensuring effective communication and coordination.<br>
 
 <p align="center">
@@ -7,18 +7,36 @@ WE-AI is a virtual assistant that uses project data to interpret and respond to 
 </p>
 
 
-### The new context created by Generative AI
-Large Language Models are a phenomenal technology that will reshape the property development industry, from the investment decision stage down to daily construction site operations<br>
+### A GENERATIVE AI-BASED PROPERTY DEVELOPMENT PLATFORM 
+:small_blue_diamond: **The new GAI context:** Large Language Models are a phenomenal technology that will reshape the property development industry, from the investment decision stage down to daily construction site operations<br>
 
-We are creating a comprehensive toolkit to glue together legacy technologies with Generative AI and address inherent challenges of the property development industry<br>
-We see a potential for Generative AI to address challenges at the following levels:<br>
+:small_blue_diamond: The **property development industry** is marked by **inherent challenges**, such as **friction** between parties due to **uneven information distribution, safety concerns**, issues related to **quality**, and **low productivity.**<br>
+We can mitigate these fragmented procedures by connecting the myriad of stakeholders involved in property development processes via streamlined information sharing. <br>
 
-:small_blue_diamond: Decision Making and Pre-Investment Phase: `Climate Change Solutions` `ESG compliance`<br>
-:small_blue_diamond: Design and pre-construction stage:  
+:small_blue_diamond: We are developing a comprehensive toolkit to glue together processes and legacy technologies with Generative AI and address inherent challenges of the property development industry<br>
 
-:small_blue_diamond: Construction and project management: `Friction` `Lack of Data` `Uneven Information Distribution` `Safety` `Low Productivity` <br>
-The **property development industry** is marked by **inherent challenges**, such as **friction** between parties due to **uneven information distribution, safety concerns**, issues related to **quality**, and **low productivity.**<br>
-By connecting the myriad of stakeholders involved in property development processes via streamlined information sharing, we can mitigate these fragmented procedures. <br>
+### BUILDERS REMEDY PROJECT PLATFORM (BRIP)
+:small_blue_diamond: **Problem we want to address:** The goal of builder's remedy projects platform is to increase the availability of affordable housing and ensure that municipalities are meeting their obligations to provide housing for all income levels. These projects can be complex and often involve navigating zoning laws, community opposition, and financial considerations.<br>
+
+:small_blue_diamond: **BRIP description:**  BRIP is an advanced suite of APIs designed to automate the discovery and management of builder's remedy projects in the property development sector. We cater to a niche segment of the market by automating the creation and submission of proposals for these projects, and subsequently presenting these approved projects as viable investment opportunities. Our goal is to address the unique needs of this market segment, making the process of investing in affordable housing more accessible and efficient.<BR>
+
+<p align="center">
+  :large_blue_circle:
+</p>
+
+:small_blue_diamond: **Builder's Remedy Opportunity Identification:** to identify municipalities that are not meeting their regional needs for affordable housing, thus highlighting potential opportunities for builder's remedy projects.<br>
+
+:small_blue_diamond:**Proposal Generation API:** This module will automatically identify plots of land and generate project proposals based on the identified opportunities. It will consider factors such as local zoning laws, available land, and the specific needs of the municipality.<br>
+
+:small_blue_diamond:**Proposal Submission API:** This module will automatically submit the generated proposals to the appropriate municipal authorities for review.<BR>
+
+:small_blue_diamond: **Recommendation and Information Retrieval system:** Once a proposal is approved, this module will present the project as an investment opportunity to a network of investors. It will provide detailed information about the expected costs, timeline, and potential return on investment.<br>
+
+:small_blue_diamond: **Project Management API:** This module will provide tools for tracking the progress of funded projects and reporting results to all parties involved.
+
+:small_blue_diamond: **User Interface (UI):** The platform will have a user-friendly interface that allows Admins to easily browse plots for investment opportunities, view detailed project information, and track the progress of their investments.
+
+
 
 
 
