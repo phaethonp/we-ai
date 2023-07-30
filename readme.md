@@ -9,7 +9,7 @@ WE-AI is a virtual assistant that uses project data to interpret and respond to 
 
 
 ### A GENERATIVE AI-BASED PROPERTY DEVELOPMENT PLATFORM 
-:small_blue_diamond: **The new GAI context:** Large Language Models are a phenomenal technology that will reshape the property development industry, from the investment decision stage down to daily construction site operations<br>
+:small_blue_diamond: The new **GAI context:** Large Language Models are a phenomenal technology that will reshape the property development industry, from the investment decision stage down to daily construction site operations<br>
 
 :small_blue_diamond: The **property development industry** is marked by **inherent challenges**, such as **friction** between parties due to **uneven information distribution, safety concerns**, issues related to **quality**, and **low productivity.**<br>
 We can mitigate these fragmented procedures by connecting the myriad of stakeholders involved in property development processes via streamlined information sharing. <br>
