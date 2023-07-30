@@ -15,6 +15,11 @@ We can mitigate these fragmented procedures by connecting the myriad of stakehol
 
 :small_blue_diamond: We are developing a comprehensive toolkit to glue together processes and legacy technologies with Generative AI and address inherent challenges of the property development industry<br>
 
+<p align="center">
+  :large_blue_circle:
+</p>
+
+
 ### BUILDERS REMEDY PROJECT PLATFORM (BRIP)
 :small_blue_diamond: **Problem we want to address:** The goal of builder's remedy projects platform is to increase the availability of affordable housing and ensure that municipalities are meeting their obligations to provide housing for all income levels. These projects can be complex and often involve navigating zoning laws, community opposition, and financial considerations.<br>
 
@@ -24,6 +29,7 @@ We can mitigate these fragmented procedures by connecting the myriad of stakehol
   :large_blue_circle:
 </p>
 
+### APIs SUITE
 :small_blue_diamond: **Builder's Remedy Opportunity Identification:** to identify municipalities that are not meeting their regional needs for affordable housing, thus highlighting potential opportunities for builder's remedy projects.<br>
 
 :small_blue_diamond:**Proposal Generation API:** This module will automatically identify plots of land and generate project proposals based on the identified opportunities. It will consider factors such as local zoning laws, available land, and the specific needs of the municipality.<br>
