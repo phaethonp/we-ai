@@ -29,7 +29,7 @@ We can mitigate these fragmented procedures by connecting the myriad of stakehol
   :large_blue_circle:
 </p>
 
-### APIs SUITE
+### APIs SPECIFICATION
 :small_blue_diamond: **Builder's Remedy Opportunity Identification:** to identify municipalities that are not meeting their regional needs for affordable housing, thus highlighting potential opportunities for builder's remedy projects.<br>
 
 :small_blue_diamond:**Proposal Generation API:** This module will automatically identify plots of land and generate project proposals based on the identified opportunities. It will consider factors such as local zoning laws, available land, and the specific needs of the municipality.<br>
