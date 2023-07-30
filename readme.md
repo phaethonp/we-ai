@@ -33,15 +33,15 @@ We can mitigate these fragmented procedures by connecting the myriad of stakehol
 ### APIs SPECIFICATION
 :small_blue_diamond: **Builder's Remedy Opportunity Identification:** to identify municipalities that are not meeting their regional needs for affordable housing, thus highlighting potential opportunities for builder's remedy projects.<br>
 
-:small_blue_diamond:**Proposal Generation API:** This module will automatically identify plots of land and generate project proposals based on the identified opportunities. It will consider factors such as local zoning laws, available land, and the specific needs of the municipality.<br>
+:small_blue_diamond:**Proposal Generation API:** Automatically identify plots of land and generate project proposals.<br>
 
-:small_blue_diamond:**Proposal Submission API:** This module will automatically submit the generated proposals to the appropriate municipal authorities for review.<BR>
+:small_blue_diamond:**Proposal Submission API:** Automatically submit the generated proposals to the appropriate municipal authorities for review.<BR>
 
-:small_blue_diamond: **Project Recommendation and Information Retrieval system:** Once a proposal is approved, this module will present the project as an investment opportunity to a network of investors. It will provide detailed information about the expected costs, timeline, and potential return on investment.<br>
+:small_blue_diamond: **Project Recommendation and Information Retrieval system:** Once a proposal is approved, this module will present the project as an investment opportunity to a network of investors, Architects and Contractors. It will provide the necessary detailed information.<br>
 
-:small_blue_diamond: **Project Management API:** This module will provide tools for tracking the progress of funded projects and reporting results to all parties involved.
+:small_blue_diamond: **Project Management API:** This module will provide tools for tracking the progress of funded projects and reporting results to all parties involved through a User Interface.<br>
 
-:small_blue_diamond: **User Interface (UI):** The platform will have a user-friendly interface that allows Admins to easily browse plots for investment opportunities, view detailed project information, and track the progress of their investments.
+:small_blue_diamond: **Admin-User Interface (UI):** The platform will have a user-friendly interface that allows Admins to easily browse plots for investment opportunities, view detailed project information, and track the progress of their investments.<br>
 
 
 
