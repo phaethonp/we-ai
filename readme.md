@@ -36,7 +36,7 @@ We can mitigate these fragmented procedures by connecting the myriad of stakehol
 
 :small_blue_diamond:**Proposal Submission API:** This module will automatically submit the generated proposals to the appropriate municipal authorities for review.<BR>
 
-:small_blue_diamond: **Recommendation and Information Retrieval system:** Once a proposal is approved, this module will present the project as an investment opportunity to a network of investors. It will provide detailed information about the expected costs, timeline, and potential return on investment.<br>
+:small_blue_diamond: **Project Recommendation and Information Retrieval system:** Once a proposal is approved, this module will present the project as an investment opportunity to a network of investors. It will provide detailed information about the expected costs, timeline, and potential return on investment.<br>
 
 :small_blue_diamond: **Project Management API:** This module will provide tools for tracking the progress of funded projects and reporting results to all parties involved.
 
