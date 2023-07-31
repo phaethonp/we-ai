@@ -1,9 +1,9 @@
-# An experiment on building a GAI property development `agent` and achieving the provision of affordable housing
+# An experiment on building an autonomous Generative AI `agent` for property development
 
 ### AUTOMATING PROPERTY DEVELOPMENT
 We are developing an experimental, open-source suite of APIs that leverages Neural Networks and Generative AI to automate the entire property development process, from generating project proposals to handing over of projects and sales.<br> Driven by Large Language Models, this program provides a Generative (AI) Artificial intelligence agent to facilitate multiplayer communication and the distribution of relevant information to architects, contractors, and investors at the right time, ensuring effective communication and coordination.<br>
 
-### AUTONOMOUS AGENTS FOR AFFORDABLE HOUSING
+### AUTONOMOUS DEVELOPMENT OF AFFORDABLE HOUSING
 
 This is an experimental API aiming to autonomously increase the availability of affordable housing within the framework set by the Builder's Remedy legislation in USA markets<br>
 
