@@ -34,7 +34,7 @@ We can mitigate these fragmented procedures by connecting multiple stakeholders 
 ### PROBLEM WE WANT TO SOLVE:
 The goal of the builder's remedy projects platform is to increase the availability of affordable housing and ensure that municipalities are meeting their obligations to provide housing for all income levels. These projects can be complex and often involve navigating zoning laws, community opposition, and financial considerations.<br>
 
-### BRIP DESCRIPTION:
+### DESCRIPTION
 BRIP is an advanced suite of APIs designed to automate the discovery and management of builder's remedy projects in the property development sector. We cater to a niche segment of the market by automating the creation and submission of proposals for these projects, and subsequently presenting these approved projects as viable investment opportunities. Our goal is to address the unique needs of this market segment, making the process of investing in affordable housing more accessible and efficient.<BR>
 
 <p align="center">
