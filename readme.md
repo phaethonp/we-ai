@@ -1,10 +1,11 @@
 # An experiment on building a GAI property development `agent` and achieving the provision of affordable housing
 
-We are developing an experimental, open-source application that leverages Neural Networks and Generative AI to automate the entire property development process. Driven by Large Language Models, this program seamlessly integrates various processes to autonomously achieve our primary goal of promoting affordable housing, within the framework set by the Builder's Remedy legislation. Broader applications for the property development industry may follow.<br>
+### PROJECT OVERVIEW
+We are developing an experimental, open-source suite of APIs that leverages Neural Networks and Generative AI to automate the entire property development process, from generating project proposals to handing over of projects and sales.<br> Driven by Large Language Models, this program provides a Generative (AI) Artificial intelligence agent to facilitate multiplayer communication and the distribution of relevant information to architects, contractors, and investors at the right time, ensuring effective communication and coordination.<br>
 
-The `User Interface`<br>
-WE-AI is a Generative (AI) Artificial intelligence agent for multiplayer communication on a Property Development platform.
-WE-AI is a virtual assistant that uses project data to interpret and respond to user requests. It's specifically designed to facilitate communication among users in the property development industry. Think of it as Siri, but with a focus on distributing relevant information to architects, contractors, and investors at the right time, ensuring effective communication and coordination.<br>
+### AUTONOMOUS AGENTS FOR AFFORDABLE HOUSING
+
+This is an experimental API aiming to autonomously increase the availability of affordable housing within the framework set by the Builder's Remedy legislation in USA markets<br>
 
 ### THE FUTURE OF GENERAL AI
 In the context of our platform, the Generative AI agent is used to generate project proposals based on patterns in successful proposals, while a General AI agent (if it existed) could potentially handle every aspect of the platform, from identifying opportunities to managing projects.<br>
@@ -20,19 +21,21 @@ For now we "glue" processes with APIs to automate processes<br>
 :small_blue_diamond: The new **GAI context:** Large Language Models are a phenomenal technology that will reshape the property development industry, from the investment decision stage down to daily construction site operations<br>
 
 :small_blue_diamond: The **property development industry** is marked by **inherent challenges**, such as **friction** between parties due to **uneven information distribution, safety concerns**, issues related to **quality**, and **low productivity.**<br>
-We can mitigate these fragmented procedures by connecting the myriad of stakeholders involved in property development processes via streamlined information sharing. <br>
+We can mitigate these fragmented procedures by connecting multiple stakeholders involved in property development processes via streamlined information sharing. <br>
 
-:small_blue_diamond: We are developing a comprehensive toolkit to glue together processes and legacy technologies with Generative AI and address inherent challenges of the property development industry<br>
+:small_blue_diamond: Our comprehensive toolkit to glue together processes and legacy technologies with Generative AI.<br>
 
 <p align="center">
   :large_blue_circle:
 </p>
 
+# Builder's Remedy Project Platform
 
-### BUILDERS REMEDY PROJECT PLATFORM (BRIP)
-:small_blue_diamond: **Problem we want to address:** The goal of builder's remedy projects platform is to increase the availability of affordable housing and ensure that municipalities are meeting their obligations to provide housing for all income levels. These projects can be complex and often involve navigating zoning laws, community opposition, and financial considerations.<br>
+### PROBLEM WE WANT TO SOLVE:
+The goal of the builder's remedy projects platform is to increase the availability of affordable housing and ensure that municipalities are meeting their obligations to provide housing for all income levels. These projects can be complex and often involve navigating zoning laws, community opposition, and financial considerations.<br>
 
-:small_blue_diamond: **BRIP description:**  BRIP is an advanced suite of APIs designed to automate the discovery and management of builder's remedy projects in the property development sector. We cater to a niche segment of the market by automating the creation and submission of proposals for these projects, and subsequently presenting these approved projects as viable investment opportunities. Our goal is to address the unique needs of this market segment, making the process of investing in affordable housing more accessible and efficient.<BR>
+### BRIP DESCRIPTION:
+BRIP is an advanced suite of APIs designed to automate the discovery and management of builder's remedy projects in the property development sector. We cater to a niche segment of the market by automating the creation and submission of proposals for these projects, and subsequently presenting these approved projects as viable investment opportunities. Our goal is to address the unique needs of this market segment, making the process of investing in affordable housing more accessible and efficient.<BR>
 
 <p align="center">
   :large_blue_circle:
