@@ -10,7 +10,7 @@ A differential equation is parameterized by neural networks, allowing us to lear
 * **From Data:** Like other machine learning models, Neural ODEs are trained on data. By adjusting the parameters of the neural networks (i.e., the weights and biases), the model learns to accurately represent the underlying dynamics of the data.
 
 # Applications
-###  Modelling Dynamic Urban Development
+###  Modelling City Growth: Dynamic Urban Development
 Lets say we want to create a model for the growth and urban development of a city.<br>
 We could start as follows:<br>
 * **Population Growth**
